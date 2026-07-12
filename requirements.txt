@@ -1,0 +1,16 @@
+# Orquestación de IA
+langchain
+langchain-community
+langchain-openai
+langchain-chroma
+
+# Procesamiento de documentos
+pypdf
+unstructured
+chromadb
+
+# Gestión de variables de entorno
+python-dotenv
+
+# Servidor de interfaz 
+streamlit
