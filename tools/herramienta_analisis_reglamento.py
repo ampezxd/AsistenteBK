@@ -13,6 +13,7 @@ class HerramientaAnalisisReglamento(BaseTool):
     return_direct: bool = False
 
     def _run(self, pregunta: str) -> str:
+        print ("Herramienta analisis de reglamento Bk fue llamada.")
 
         reader = PdfReader("knowledge_base/ReglamentoBKCOL2026.pdf")
 

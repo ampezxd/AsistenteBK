@@ -4,7 +4,7 @@ def main():
     agente = AgenteOrquestador()
     
     pregunta = """
-    ¿Cuáles son los horarios de trabajo para los empleados de Burger King?"""
+    ¿Como piensa Burger king implementar el nuevo reglamento de reducción de horas?"""
 
 
     respuesta = agente.agente.invoke(
