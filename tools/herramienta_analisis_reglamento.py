@@ -8,24 +8,19 @@ from pypdf import PdfReader
 class HerramientaAnalisisReglamento(BaseTool):
     name: str = "analizar_reglamento"
 
-    description: str = "Analiza el reglamento de la empresa y responde preguntas relacionadas con horarios, descansos, permisos y contratos."
+    description: str = "Lee exclusivamente el reglamento interno de Burger King."
 
     return_direct: bool = False
 
     def _run(self, pregunta: str) -> str:
-        print ("Herramienta analisis de reglamento Bk fue llamada.")
+        print("Herramienta analisis de reglamento Bk fue llamada.")
 
-        reader = PdfReader("knowledge_base/ReglamentoBKCOL2026.pdf")
+        ruta = Path("knowledge_base/reglamentoBkcol.txt")
 
-        contenido = ""
+        contenido = ruta.read_text(encoding="utf-8")
 
-        for pagina in reader.pages:
-            texto = pagina.extract_text()
+        print("\n=== CONTENIDO DEVUELTO POR LA HERRAMIENTA ===")
+        print(contenido[:1000])
+        print("===========================================\n")
 
-        if texto:
-            contenido += texto + "\n"
-
-        llm = ChatGoogleGenerativeAI(
-            model=GEMINI_FLASH,
-            api_key=GEMINI_API_KEY
-        )
+        return contenido

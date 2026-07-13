@@ -10,7 +10,7 @@ class HerramientaAnalisis42Horas(BaseTool):
     name: str = "analizar_42_horas"
 
     description: str = Field (
-        "Analiza el reglamento de la reducción de 42 horas laborales y responde preguntas relacionadas con como se implementara este nuevo reglamento y sobre que habla"
+        "Lee exclusivamente la Ley 2101 de reducción de jornada laboral."
     )
 
     return_direct: bool = False
@@ -22,7 +22,8 @@ class HerramientaAnalisis42Horas(BaseTool):
 
         contenido = ruta.read_text(encoding="utf-8")
 
-        llm = ChatGoogleGenerativeAI(
-            model = GEMINI_FLASH,
-            api_key=GEMINI_API_KEY
-        )
+        print("\n === CONTENIDO DEVUELTO POR LA HERRAMIENTA ===")
+        print (contenido[:1000])
+        print("==============================================\n")
+
+        return contenido

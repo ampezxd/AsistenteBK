@@ -1,0 +1,1798 @@
+
+text_content = """BURGER
+KING
+REGLAMENTO INTERNO DE TRABAJO
+Código: GHU-DP-RIT
+Versión: 4
+Fecha de vigencia:
+REGLAMENTO INTERNO DE BKCOL S.A.S.
+Medellín, 23 de junio
+El presente es el Reglamento interno de trabajo otorgado por la empresa BKCOL S.A.S.con
+NIT 901.095.2786 que en lo sucesivo y para los efectos de este, se denominará la
+Empresa o BKCOL S.A.S. con domicilio principal en Medellín, en la Diagonal 75 #39 CB 40.
+A las disposiciones del presente reglamento quedan sometidos tanto la empresa BKCOL
+S.A.S. como sus trabajadores y hace parte de los contratos de trabajos verbales o escritos
+que tenga celebrados o celebre en el futuro, salvo estipulaciones en contrario que sólo
+podrán ser favorables al trabajador.
+Este reglamento se aplicará en todas las dependencias, los locales, establecimientos de
+comercio, oficinas, agencias y sucursales con que cuenta actualmente la empresa, así
+como las que abra o instale en el futuro en el territorio nacional.
+CAPÍTULO I. CONDICIONES DE ADMISIÓN
+Artículo 1. SOLICITUD DE EMPLEO. Quien aspire a vincularse laboralmente con BKCOL
+S.A.S. deberá entregar la siguiente documentación:
+1) Hoja de vida con la siguiente información: Datos personales, experiencia laboral,
+preparación académica, dos (2) referencias personales y dos (2) referencias
+laborales.
+2) Realizar a las entrevistas personales de selección y pruebas de empleo.
+Aceptado su ingreso y antes de firmar el contrato individual de trabajo, el aspirante deberá
+presentar los siguientes documentos:
+a. Resultados de los exámenes médicos ocupacionales de ingreso requeridos por la
+empresa.
+b. Hoja de vida (Diligenciada manualmente formato BK)
+c. Certificado de cuenta bancaria
+d. Curso de manipulación de alimentos, para los cargos que aplique
+e. Antecedentes disciplinarios (Procuraduría general de la nación)
+f. Antecedentes judiciales (Policía)
+g. Fotocopia de la libreta militar o carta de compromiso
+h. Una (1) fotografía reciente tamaño documento.
+i. Fotocopia del diploma o acta de grado, si cursó estudios de bachillerato o
+universitarios y de la Tarjeta Profesional según el caso.
+j.
+Dos (2) referencias personales (No familiares)
+k. Dos (2) certificados laborales con quien haya trabajado, en donde conste el tiempo
+de servicio, la índole de la labor ejecutada y el salario devengado.
+I. Fotocopia de la cédula de ciudadanía o tarjeta de identidad, según sea el caso.
+m. Certificado de la EPS (Donde cotizó por última vez)
+BURGER
+KING
+REGLAMENTO INTERNO DE TRABAJO
+Código: GHU-DP-RIT
+Versión: 4
+Fecha de vigencia:
+n. Certificado de afiliación al fondo de pensiones (Donde cotizó por última vez)
+o. Certificado de afiliación al fondo de cesantías (Donde cotizó por última vez)
+p. Copia del Carnet de Covid-19 o carta de compromiso.
+q. Autorización escrita del Inspector del Trabajo o, en su defecto, de la primera
+autoridad local, a solicitud de los padres y, a falta de éstos, del defensor de familia,
+cuando el aspirante sea un menor de 18 años y mayor de 15 años.
+r. Copia auténtica de la visa que lo faculte para trabajar en Colombia, para aspirantes
+extranjeros y cédula de extranjería.
+s. Certificados de estudios de los hijos menores con derecho a subsidio.
+t. Los documentos necesarios para la afiliación a la Seguridad Social y a una Caja de
+Compensación Familiar, con indicación de las entidades de salud y pensiones a que
+quiere ser afiliado.
+Parágrafo primero: El empleador podrá establecer en el reglamento además de los
+documentos mencionados, todos aquellos que considere necesarios para admitir o no
+admitir al aspirante, sin embargo, tales exigencias no deben incluir documentos,
+certificaciones o datos prohibidos expresamente por las normas jurídicas para tal efecto:
+así es prohibida la exigencia de la inclusión en formatos o cartas de solicitud de empleo
+"datos acerca del estado civil de las personas, números de hijos que tenga, la religión que
+profesan o el partido político al cual pertenezca" (Artículo 1º. Ley 13 de 1972); lo mismo que
+la exigencia de la prueba de gravidez para las mujeres, solo que se trate de actividades
+catalogadas como de alto riesgo (Artículo 43. CP, artículos primero y segundo, Convenio
+No. 111 de la OIT, Resolución No 003941 de 1994 del Ministerio de la Protección Social), el
+examen de VIH (Decreto reglamentario No. 559 de 1991 Art. 22), ni la libreta Militar (Art. 111
+Decreto 2150 de 1995). También se prohíbe exigir al aspirante la prueba de abreugrafía
+pulmonar (Res. 13824/89).
+Parágrafo segundo: El costo de las evaluaciones médicas ocupacionales y de las pruebas
+o valoraciones complementarias que se requieran, estará a cargo del empleador en su
+totalidad. En ningún caso pueden ser cobradas ni solicitadas al aspirante o al trabajador.
+Artículo 2. AUTONOMÍA DE LA EMPRESA PARA LA ELECCIÓN. BKCOL S.A.S. es libre en la
+selección del personal y no estará obligada a dar explicaciones sobre lo que al respecto
+determine. En el caso que un aspirante no resulte seleccionado se le enviará un correo
+electrónico informándole que el proceso culminó y que la vacante ya fue asignada, se le
+agradecerá el haber participado en el proceso de selección y se le informará que su hoja
+de vida queda en la base de datos de la empresa y será tenida en cuenta para un próximo
+proceso de selección que sea acorde con su perfil.
+CAPÍTULO II. PERÍODO DE PRUEBA
+Artículo 3. ESTIPULACIÓN DEL PERIÓDO DE PRUEBA. Una vez admitido el aspirante,
+BKCOL S.A.S. pactará con él, un periodo inicial de prueba que tendrá por objeto apreciar,
+por parte de la Empresa, las aptitudes del trabajador y por parte de éste, la conveniencia
+de las condiciones de trabajo. Art. 76 a 80 del C.S de T..
+BURGER
+KING
+REGLAMENTO INTERNO DE TRABAJO
+Código: GHU-DP-RIT
+Versión: 4
+Fecha de vigencia:
+Parágrafo primero: El periodo de prueba debe estar regulado en el contrato de trabajo
+por escrito, en caso contrario, los servicios se entienden regulados por las normas
+generales del código sustantivo del trabajo. (Art. 77 del C.S de T)
+Parágrafo segundo: Los trabajadores en período de prueba gozan de todas las
+prestaciones. (Art. 80 del C.S de T)
+Parágrafo tercero: Cuando entre BKCOL S.A.S. y un mismo trabajador se celebren
+contratos de trabajo sucesivos, no es válida la estipulación del período de prueba, salvo
+para el primer contrato. (Art. 7 de la Ley 50 de 1990)
+Artículo 4º: DURACIÓN DEL PERIODO DE PRUEBA. El período de prueba no puede exceder
+de dos (2) meses. Cuando el período de prueba se pacte por un término menor del límite
+máximo expresado, las partes pueden prorrogarlo antes de vencerse el período
+inicialmente estipulado y sin que el tiempo total de la prueba pueda exceder de dos (2)
+meses. No obstante, lo anterior conforme a lo regulado por la ley $50/90$ cuando el contrato
+de trabajo se pacte a término fijo, el período de prueba no podrá ser superior a la quinta
+parte del término inicialmente pactado para el respectivo contrato, sin que pueda exceder
+de dos (2) meses. (Art. 78 del C.S de T)
+Artículo 5º: EFECTO JURÍDICO. En el período de prueba cualquiera de las partes puede
+dar por terminado unilateralmente, en cualquier momento, sin previo aviso y sin
+indemnización el Contrato de Trabajo. Pero si expirado el período de prueba el trabajador
+continuare al servicio del Empleador, con su consentimiento expreso o tácito por este
+hecho, los servicios prestados por aquel a éste se consideran regulados por el contrato de
+trabajo y las normas generales del Código Sustantivo del Trabajo desde la iniciación de
+dicho período.
+CAPITULO III. TRABAJADORES ACCIDENTALES O TRANSITORIOS.
+Artículo 6. DEFINICIÓN: Se consideran trabajadores accidentales o transitorios aquellos
+que se contratan para labores de corta duración no mayor de un (1) mes y que sean de
+índole distinta de las actividades normales de la empresa.
+Artículo 7. RÉGIMEN PRESTACIONAL: Los trabajadores accidentales o transitorios
+tendrán derecho a las prestaciones sociales de ley y a la afiliación al Sistema de Seguridad
+Social Integral conforme al derecho vigente.
+CAPÍTULO IV. HORARIO Y JORNADA DE TRABAJO
+Artículo 8º: Las horas de entrada y salida del personal que labora en BKCOL S.A.S., son las
+que a continuación se expresan:
+A. PERSONAL ADMINISTRATIVO: lunes a viernes de 8:00 A.Μ. α 5:00P.M. con una hora
+de almuerzo de 12:00 P.Μ. α 1:00 Ρ.Μ.
+BURGER
+KING
+REGLAMENTO INTERNO DE TRABAJO
+Código: GHU-DP-RIT
+Versión: 4
+Fecha de vigencia:
+B. PERSONAL OPERATIVO - TIEMPO COMPLETO (puntos de venta): El horario se
+distribuye en diferentes jornadas de lunes a domingo de acuerdo a las
+necesidades operativas del servicio de cada uno los puntos de venta, cumpliendo
+con la jornada máxima legal vigente. Los horarios o turnos en los que podrá ser
+asignado el trabajador son: Aperturas, intermedios o cierres, cuyo horario podrá
+variar en función de la operación del punto de venta asignado.
+C. TURNO PARTIDO: Existe dentro de la operación de la empresa un turno que se
+denomina TURNO PARTIDO de ocho (8) horas de trabajo diarias divididas en dos
+secciones. La primera sección será programada en las horas de alta demanda del
+medio día y la segunda en las horas de alta demanda de la tarde. Los horarios o
+turnos en los que podrá ser asignado el trabajador son: Aperturas, intermedios o
+cierres, cuyo horario podrá variar en función de la operación del punto de venta
+asignado.
+Las horas de alta demanda varían según el punto de venta en el que se desempeñe el
+trabajador.
+D. PERSONAL OPERATIVO
+MEDIO TIEMPO (puntos de venta): El horario se
+distribuye en diferentes turnos de acuerdo con las necesidades operativas del
+servicio de los puntos de venta, cumpliendo la mitad de la jornada máxima legal
+vigente. Los horarios o turnos en los que podrá ser asignado el trabajador son:
+Aperturas, intermedios o cierres, cuyo horario podrá variar en función de la
+operación del punto de venta asignado.
+E. PERSONAL OPERATIVO TIEMPO PARCIAL (puntos de venta): El horario se
+distribuye en diferentes turnos de acuerdo con las necesidades operativas del
+servicio de los puntos de venta, cumpliendo 32 horas semanales. Los horarios o
+turnos en los que podrá ser asignado el trabajador son: Aperturas, intermedios o
+cierres, cuyo horario podrá variar en función de la operación del punto de venta
+asignado.
+F. PERSONAL OPERATIVO POR HORAS (puntos de venta): El horario se
+distribuye en diferentes turnos de acuerdo con las necesidades operativas del
+servicio de los puntos de venta. Los horarios o turnos en los que podrá ser
+asignado el trabajador son: Aperturas, intermedios o cierres, cuyo horario podrá
+variar en función de la operación del punto de venta asignado.
+G. PERSONAL OPERATIVO - FINES DE SEMANA (puntos de venta): El horario se
+distribuye en horario de fines de semana (viernes, sábado y Domingo y/o lunes
+festivo) de acuerdo con las necesidades operativas del servicio de los puntos de
+venta, cumpliendo 24 horas semanales. Los horarios o turnos en los que podrá
+ser asignado el trabajador son: Aperturas, intermedios o cierres, cuyo horario
+podrá variar en función de la operación del punto de venta asignado.
+PERIODOS DE DESCANSO: Para personal administrativo, 60 minutos (hora de almuerzo),
+y para personal operativo 30 minutos, cuando se trabaje la jornada máxima establecida.
+Parágrafo primero: Jornada flexible para trabajadores y trabajadoras con
+responsabilidades familiares del cuidado. Las partes podrán acordar horarios o
+BURGER
+KING
+REGLAMENTO INTERNO DE TRABAJO
+Código: GHU-DP-RIT
+Versión: 4
+Fecha de vigencia:
+jornadas flexibles de trabajo o modalidades de trabajo apoyadas por las tecnologías de la
+información y las comunicaciones sin desmedro del cumplimiento de sus funciones,
+enfocadas en armonizar la vida familiar del trabajador o trabajadora que tenga
+responsabilidades de cuidado sobre personas mayores, hijos e hijas menores de edad,
+personas con discapacidad, con enfermedades catastróficas, crónicas graves y/o
+terminales, dentro del segundo grado de consanguinidad, primero de afinidad o primero y
+segundo civil, o que la persona dependa exclusivamente del cuidador por no tener más
+familiares, previa certificación de su calidad de cuidador.
+El trabajador o trabajadora podrá solicitar y proponer el acuerdo para la distribución de la
+jornada flexible o la modalidad de trabajo a desarrollar, proponiendo la distribución de los
+tiempos de trabajo y descanso, y deberá acreditar la responsabilidad de cuidado a su
+cargo. Esta solicitud deberá ser evaluada por el empleador y este estará obligado a
+otorgar una respuesta en un término máximo de quince (15) días hábiles, caso en el cual de
+ser aceptada deberá indicar el proceso de implementación a seguir, proponiendo una
+distribución nueva y organizando lo pertinente para acordar e implementar esta opción, o
+negándola con la justificación que impide la aceptación de la misma o planteando una
+propuesta alternativa al trabajador.
+Parágrafo segundo: Entornos laborales flexibles. LA EMPRESA podrá adoptar dentro de
+las políticas de bienestar, entornos laborales flexibles, permitiendo el ingreso a los
+animales de compañía, específicamente perros y gatos. El ingreso de animales de
+asistencia, apoyo emocional o uso terapéutico a la instalaciones de BKCOL S.A.S. estará
+regulado por la política que para el efecto expida la EMPRESA. Se exceptúa de esta medida
+al personal operativo que desarrolla sus funciones en los restaurantes.
+Parágrafo: La jornada y horarios de trabajo aquí previstos siempre estarán dentro de los
+términos establecidos en la ley, pero se prevé que, sin que ello implique modificación al
+presente texto de Reglamento de Trabajo, los horarios o jornadas laborales se podrán
+modificar, dentro de los límites máximos de ley en cuanto a horas de trabajo y jornada,
+dependiendo de los requerimientos de la empresa. Estas modificaciones pueden ser
+permanentes o temporales y deberán ser comunicadas previamente al empleado.
+Parágrafo primero: La jornada y horarios de trabajo aquí previstos siempre estarán
+dentro de los términos establecidos en la ley, pero se prevé que, sin que ello implique
+modificación al presente texto de Reglamento de Trabajo, los horarios o jornadas laborales
+se podrán modificar, dentro de los límites máximos de ley en cuanto a horas de trabajo
+y jornada, dependiendo de los requerimientos de la empresa. Estas modificaciones pueden
+ser permanentes o temporales y deberán ser comunicadas previamente al empleado, ya
+que la modificación de la jornada podrá ser grupal o individual.
+Parágrafo segundo: Cuando el empleador establezca que se deberá trabajar
+habitualmente los días domingos, éste se remunerará en la forma establecida en el Código
+Sustantivo del Trabajo y el trabajador tendrá derecho a su descanso compensatorio
+conforme lo establece la ley laboral.
+BURGER
+KING
+REGLAMENTO INTERNO DE TRABAJO
+Código: GHU-DP-RIT
+Versión: 4
+Fecha de vigencia:
+Parágrafo tercero: Cuando se labore en turnos rotatorios de lunes a domingo, el
+trabajador tendrá un día compensatorio la semana siguiente.
+Parágrafo cuarto: BKCOL S.A.S. no está obligado a asignar un turno fijo a ninguno de sus
+trabajadores. Podrá establecer, según necesidad del servicio, turnos fijos o turnos
+rotatorios.
+Parágrafo quinto: Los períodos de descanso durante la jornada establecida por, BKCOL
+S.A.S. no se computan como parte de la jornada de trabajo Art. 167 C. S de T
+Artículo 9. La duración máxima legal de la jornada ordinaria de trabajo es la establecida
+en el Código Sustantivo de Trabajo, salvo en labores especialmente insalubres o
+peligrosas, el Gobierno puede ordenar la reducción de la jornada de trabajo conforme los
+dictámenes al respecto, todo ello conforme a ley $50/90$.
+Parágrafo: Dicha jornada será aplicada de la siguiente manera conforme a la Ley 2101 de
+2021
+Disminuirán las horas semanales de cuarenta y ocho horas (48) a la semana a cuarenta y
+dos horas (42) semanales de la siguiente manera:
+El 16 de julio de 2023, se reducirá una (1) hora de la jornada laboral semanal, quedando en
+cuarenta y siete (47) horas semanales.
+El 16 de julio de 2024, luego de transcurridos 3 años de la entrada en vigencia de esta ley
+(16 de julio de 2021), se reducirá otra hora de la jornada laboral semanal, quedando está en
+cuarenta y seis (46) horas semanales.
+El 16 de julio de 2025, transcurridos los 4 años después de la entrada en vigencia de la
+presente ley (16 de julio de 2021), se reducen otras dos (2) horas de la jornada laboral
+semanal, quedando en cuarenta y cuatro (44) horas a la semana.
+El 16 de julio de 2026, transcurridos los 5 años después de la entrada en vigencia de la
+presente ley (16 de julio de 2021), se reducen otras dos (2) horas de la jornada laboral
+semanal, quedando en cuarenta y dos (42) horas a la semana.
+Artículo 10. Trabajo diurno y nocturno será el establecido en el Código Sustantivo De
+Trabajo.
+Parágrafo primero: LA EMPRESA y el trabajador pueden acordar que la jornada máxima
+legal se realice mediante jornadas diarias flexibles de trabajo, distribuidas en máximo seis
+días a la semana con un día de descanso obligatorio, que podrá coincidir con el día
+domingo.
+Así, el número de horas de trabajo diario podrá distribuirse de manera variable durante la
+respectiva semana, teniendo como mínimo cuatro 4 horas continuas y máximo hasta nueve
+BURGER
+KING
+REGLAMENTO INTERNO DE TRABAJO
+Código: GHU-DP-RIT
+Versión: 4
+Fecha de vigencia:
+9 horas diarias sin lugar a ningún recargo por trabajo suplementario, cuando el número de
+horas de trabajo no exceda el promedio de la jornada máxima legal, de conformidad con el
+artículo 160 del Código Sustantivo del Trabajo.
+Parágrafo segundo: Los días laborables son: lunes, martes, miércoles, jueves, viernes y
+sábados. Las partes pueden convenir enmarcar la jornada máxima legal de lunes a viernes,
+dentro de lo previsto por la ley.
+Parágrafo tercero: Todo lo referente a la ley 1098 de 2006, se encuentra consagrado en
+el capítulo respectivo de este reglamento. (Trabajo de menores de edad)
+Parágrafo cuarto: El trabajo en domingo y festivos se remunera según la normatividad
+vigente en el Código Sustantivo de Trabajo.
+Parágrafo quinto: El trabajador podrá convenir con el empleador su día de descanso
+obligatorio el día sábado o domingo, que será reconocido en todos sus aspectos como
+descanso dominical obligatorio institucionalizado.
+Parágrafo sexto: Se entiende que el trabajo dominical es ocasional cuando el trabajador
+labora hasta dos domingos durante el mes calendario. Se entiende que el trabajo dominical
+es habitual cuando el trabajador labore tres o más domingos durante el mes calendario.
+Parágrafo séptimo: Los períodos de descanso durante la jornada establecida por, BKCOL
+S.A.S. no se computan como parte de la jornada de trabajo (Art. 167 C. S de T)
+Artículo 11. No habrá limitación de jornada para los trabajadores que desempeñen cargos
+de dirección, confianza y manejo, todos los cuales deberán laborar todo el tiempo que
+fuere necesario para desempeñar cumplidamente sus deberes, sin que el servicio prestado
+fuera del horario antedicho constituya trabajo suplementario, ni implique sobre
+remuneración alguna. No obstante, se respetará el derecho a la desconexión laboral en la
+medida que lo permita la operación. (Art. 162 C. S de T.)
+Artículo 12. Cuando por fuerza mayor o caso fortuito que determine suspensión del trabajo
+por tiempo no mayor de dos 2 horas y no pueda desarrollarse la jornada de trabajo dentro
+del horario antes dicho, se cumplirá en igual número de horas distintas a las de dicho
+horario, sin que el servicio prestado en tales horas constituya trabajo suplementario, ni
+implique sobre remuneración alguna.
+Artículo 13. El número de horas de trabajo que se ha señalado en el horario anterior podrá
+ser elevado por orden de BKCOL S.A.S., por razón de fuerza mayor, caso fortuito, de
+amenazar u ocurrir algún accidente, pero sólo en la medida necesaria para evitar que la
+marcha del establecimiento sufra una perturbación grave. Esta ampliación constituye
+trabajo suplementario o de horas extras. Salvo el caso anterior en ningún caso las horas
+extras de trabajo diurnas o nocturnas podrán exceder de dos (2) horas diarias y doce (12)
+semanales. También conforme a la ley 50/90, cuando la jornada de trabajo se extienda por
+BURGER
+KING
+REGLAMENTO INTERNO DE TRABAJO
+Código: GHU-DP-RIT
+Versión: 4
+Fecha de vigencia:
+acuerdo entre empleadores y trabajadores a diez 10 horas diarias, no podrán en el mismo
+día laborar horas extras.
+Parágrafo primero: Salvo la excepción consagrada en el literal c del artículo 20 de la ley
+$50/90$, el empleador está obligado a dar descanso dominical remunerado a todos sus
+trabajadores. Este descanso tiene una duración de veinticuatro 24 horas.
+CAPÍTULO V. POLÍTICA INTERNA DE TELETRABAJO
+Artículo 14. La Ley 1221 de 2008, reglamentada por el Decreto 884 de 2012, define el
+teletrabajo como una forma de organización laboral, que consiste en el desempeño de
+actividades remuneradas o de prestación de servicios a terceros utilizando como soporte
+las tecnologías de la información y la comunicación TIC para el contacto entre el
+empleado y la Empresa, sin requerirse la presencia física del empleado en un sitio
+específico de trabajo. Para efectos del presente reglamento, los empleados que estén bajo
+la modalidad de teletrabajo se denominarán teletrabajador.
+Artículo 15. OBJETO Y ÁMBITO DE APLICACIÓN. El presente apartado tiene como objeto
+la regulación de la modalidad de teletrabajo. Este reglamento hace parte de los acuerdos
+individuales de teletrabajo, celebrados o que se celebren con toda los Teletrabajadores.
+Para efectos del presente reglamento, los empleados que estén bajo la modalidad de
+teletrabajo se denominarán teletrabajador.
+Artículo 16. DEFINICIONES. Según la normatividad colombiana vigente con respecto al
+teletrabajo, se tienen en cuenta las siguientes definiciones:
+TELETRABAJO. Es una forma de organización laboral, que se efectúa en el marco de un
+contrato de trabajo o de una relación laboral dependiente, que consiste en el desempeño
+de actividades remuneradas utilizando como soporte las tecnologías de la información y la
+comunicación - TIC-para el contacto entre el trabajador y empleador, sin requerirse la
+presencia física del trabajador en un sitio específico de trabajo. El teletrabajo puede
+revestir una de las siguientes formas:
+AUTÓNOMOS: son aquellos que utilizan su propio domicilio o un lugar escogido para
+desarrollar su actividad profesional, puede ser una pequeña oficina, un local comercial. En
+este tipo se encuentran las personas que trabajan siempre fuera de BKCOL S.A.S. y sólo
+acuden a la oficina en algunas ocasiones.
+MÓVILES: son aquellos teletrabajadores que no tienen un lugar de trabajo establecido y
+cuyas herramientas primordiales para desarrollar sus actividades profesionales son las
+Tecnologías de la Información y la comunicación, en dispositivos móviles.
+TELETRABAJO HÍBRIDO: es aquel en donde los teletrabajadores y teletrabajadoras laboran
+mínimo dos o tres días a la semana en su casa y el resto del tiempo lo hacen en las
+instalaciones físicas del empleador, alternando el trabajo de manera presencial y virtual
+en la jornada laboral semanal, y que requiere de una flexibilidad organizacional y a la vez
+BURGER
+KING
+REGLAMENTO INTERNO DE TRABAJO
+Código: GHU-DP-RIT
+Versión: 4
+Fecha de vigencia:
+de la responsabilidad, confianza, control, disciplina y orientación a resultados por parte del
+teletrabajador y de su empleador.
+TELETRABAJO TRANSNACIONAL: es aquel en donde los teletrabajadores y
+teletrabajadoras de una relación laboral celebrada en Colombia laboran desde otro país,
+siendo responsabilidad del teletrabajador o teletrabajadora tener la situación migratoria
+regular, cuando aplique, y responsabilidad del empleador contar con un seguro que cubra
+al menos las prestaciones asistenciales en salud en caso de accidente o enfermedad. El
+empleador estará a cargo de las prestaciones económicas lo cual lo hará a través del
+Sistema de Seguridad Social Colombiano.
+TELETRABAJO TEMPORAL O EMERGENTE: Se refiere a modalidades en situaciones
+concretas tales como, emergencias sanitarias o desastres naturales. Lo anterior sin
+perjuicio de las normas legales establecidas sobre el trabajo en casa.
+TELETRABAJADOR. Es la persona que el marco de la relación laboral dependiente utiliza las
+tecnologías de la información y comunicación como medio o fin para realizar su actividad,
+laboral fuera del local del empleador, en cualquiera de las formas definidas por la ley.
+Parágrafo Primero: Una persona que tenga la condición de asalariado no se considerará
+teletrabajador por el mero hecho de realizar ocasionalmente su trabajo como asalariado
+en su domicilio o en lugar distinto de los locales de trabajo del empleador, en vez de
+realizarlo en su lugar de trabajo habitual.
+Artículo 17. CONTRATO O VINCULACIÓN DE TELETRABAJO. Quien aspire a desempeñar
+un cargo como teletrabajador deberá cumplir con los requisitos establecidos en el Artículo
+39 del Código Sustantivo de Trabajo. El acuerdo de teletrabajo o contrato de trabajo en la
+modalidad de teletrabajo deberá indicar de manera especial:
+1.
+Las condiciones necesarias para la ejecución de la función asignada, los
+medios tecnológicos y de ambiente requeridos para la labor, la descripción de los
+equipos programas informáticos, junto con las restricciones al uso de esos
+programas y equipos, pero también con las responsabilidades que pueda acarrear
+su incumplimiento.
+2.
+3.
+La modalidad de teletrabajo a ejecutar y la jornada semanal aplicable.
+Las responsabilidades en cuanto a la custodia de los elementos de trabajo
+y el procedimiento de restitución de equipos por parte del teletrabajador al
+momento de finalizar la modalidad de teletrabajo.
+4.
+Las medidas de seguridad informática que debe conocer y cumplir el
+teletrabajador.
+5.
+La descripción de los requisitos mínimos del puesto de trabajo para el
+desarrollo de la labor contratada, en aspectos ergonómicos y tecnológicos.
+Parágrafo Primero. En caso de contratar por primera vez a un teletrabajador, éste no
+podrá exigir posteriormente realizar sus actividades en las instalaciones del empleador, a
+no ser que las partes de común acuerdo modifiquen lo inicialmente pactado y en dado
+caso, dejaría de ser teletrabajador.
+BURGER
+KING
+REGLAMENTO INTERNO DE TRABAJO
+Código: GHU-DP-RIT
+Versión: 4
+Fecha de vigencia:
+Parágrafo Segundo. Si previamente existe un contrato de trabajo o vinculación laboral y
+las partes de común acuerdo optan por el teletrabajo, el acuerdo que firmen deberá
+contener los elementos descritos en el presente artículo y será anexado al contrato de
+trabajo o a la hoja de vida del empleado.
+ARTÍCULO 18. Para efectos de la presente política, los empleados que estén bajo la
+modalidad de teletrabajo se denominarán teletrabajador. Serán beneficiarios de la
+modalidad de Teletrabajo los trabajadores cuyo perfil del cargo, y con autorización de la
+empresa, permita el desarrollo de sus actividades bajo dicha modalidad
+Parágrafo Primero. Para ser beneficiario de la modalidad de teletrabajo, el teletrabajador
+deberá cumplir con los siguientes requisitos:
+1.
+Autorización del Gerente General
+2.
+3.
+Autorización del Área de Talento Humano
+Pertenecer al área administrativa.
+Artículo 19. El teletrabajador tendrá los siguientes derechos:
+1. Disfrutar de los derechos, descansos, vacaciones, y afiliación al Sistema de
+Seguridad Social Integral, como el resto de los empleados de la Empresa que
+desempeñen sus tareas mediante presencia física en la misma. De igual manera, el
+empleado tendrá las mismas obligaciones laborales que los demás empleados.
+2.
+Disfrutar de las garantías contempladas en el artículo 6 de la Ley 1221 de
+2008 y demás normas que la modifiquen sustituyan o deroguen.
+Artículo 20. IGUALDAD DE TRATO. Los trabajadores y teletrabajadores tendrán los
+mismos derechos, obligaciones y garantías. El teletrabajador no perderá ningún derecho,
+por ostentar tal condición. La igualdad de trato abarca:
+1. El derecho de los teletrabajadores a constituir o a afiliarse a las
+organizaciones que escojan y a participar en sus actividades.
+2.
+3.
+La protección de la discriminación en el empleo.
+La protección en materia de seguridad social Sistema General de Pensiones,
+Sistema General de Seguridad Social en Salud y Riesgos Laborales, de
+conformidad con lo previsto en la Ley 100 de 1993 y las normas que la modifiquen o
+adicionen, o en las disposiciones que regulen los regímenes especiales.
+La remuneración.
+La protección por regímenes legales de seguridad social.
+4.
+5.
+6.
+El acceso a la formación.
+7.
+La edad mínima de admisión al empleo o al trabajo.
+8.
+La protección de la maternidad. Las teletrabajadoras tendrán derecho a
+retornar al mismo puesto de trabajo o a un puesto equivalente con la misma
+remuneración, al término de la licencia de maternidad.
+9.
+Respeto al derecho a la intimidad y privacidad del teletrabajador.
+BURGER
+KING
+REGLAMENTO INTERNO DE TRABAJO
+Código: GHU-DP-RIT
+Versión: 4
+Fecha de vigencia:
+Artículo 21. APORTES AL SISTEMA DE SEGURIDAD SOCIAL INTEGRAL. Los
+teletrabajadores deben estar afiliados al Sistema de Seguridad Social Integral. El pago de
+los aportes se debe efectuar a través de la Planilla Integrada de Liquidación de Aportes -
+PILA-. Los teletrabajadores en relación de dependencia, durante la vigencia de la relación
+laboral, serán afiliados por parte la empresa al sistema de seguridad social, salud,
+pensiones y riesgos laborales, de conformidad con lo establecido en la Ley 100 de 1993 y
+las normas que la modifiquen, adicionen o sustituyan, o las disposiciones que regulen los
+regímenes especiales, así como a las Cajas de Compensación Familiar en los términos y
+condiciones de la normatividad que regula dicha materia.
+Artículo 22. OBLIGACIONES DE LAS PARTES EN SEGURIDAD Y PREVISIÓN DE RIESGOS
+LABORALES. Serán obligaciones de las partes en materia de riesgos laborales en el
+teletrabajo:
+Del empleador:
+1.
+Realizar y firmar acuerdo de teletrabajo o dependiendo del caso, contrato
+de trabajo en la modalidad de teletrabajo, incorporando las condiciones
+establecidas en el Artículo 3º del Decreto 884 de 2012.
+2.
+Establecer las horas del día y los días de la semana en que el teletrabajador
+debe estar accesible y disponible para la empresa en el marco de la Jornada
+Laboral.
+3.
+Implementar los correctivos necesarios con la asesoría de la
+Administradora de Riesgos Laborales que se presenten en el lugar de trabajo del
+teletrabajador.
+4.
+Las obligaciones en Riesgos Laborales y en el Sistema de Gestión de la
+Seguridad y Salud en el Trabajo SGSST-, definidas en la normatividad vigente, de
+conformidad con el Parágrafo 2º, Artículo 26, Ley 1562 de 2012.
+5.
+Suministrar a los teletrabajadores equipos de trabajo seguros y medios de
+protección adecuados para la tarea a realizar, y garantizar que los trabajadores
+reciban una formación e información adecuadas sobre los riesgos derivados de la
+utilización de los equipos informáticos y su prevención.
+6.
+Informar y dar una copia al teletrabajador de la política de la empresa en
+materia de salud y seguridad en el teletrabajo.
+7.
+Realizar el plan de capacitaciones en temas inherentes al desarrollo
+efectivo del teletrabajo.
+Del teletrabajador:
+1.
+Cumplir las normas, reglamentos e instrucciones de Gestión de la Seguridad
+y Salud en el Trabajo SG-SST de la empresa y en el Decreto 1072 de 2015 de asistir
+periódicamente a los programas de promoción y prevención adelantados por la
+Administradora de Riesgos Laborales.
+2.
+Referente al teletrabajo, las obligaciones del teletrabajador en Riesgos
+Laborales y en el Sistema de Gestión de la Seguridad y Salud en el Trabajo SG-SST,
+son las definidas por la normatividad vigente de conformidad con el Artículo 27 de
+la Ley 1562 de 2012 y el Decreto 1072 de 2015 las demás normas que lo modifique o
+sustituyan.
+BURGER
+KING
+3.
+REGLAMENTO INTERNO DE TRABAJO
+Código: GHU-DP-RIT
+Versión: 4
+Fecha de vigencia:
+Suministrar información clara, veraz y completa sobre su estado de salud.
+Colaborar y velar por el cumplimiento de las obligaciones contraídas por los
+4.
+empleadores.
+5.
+EI TELETRABAJADOR deberá informar de manera inmediata a EL
+EMPLEADOR todo incidente o accidente ocurrido con causa u ocasión en el
+cumplimiento de su labor. EL EMPLEADOR no será responsable de la agravación
+que se presente en las lesiones o perturbaciones, por razón de no haber dado al
+trabajador este aviso o haberlo demorado sin justa causa.
+6.
+participa en los programas y actividades de promoción y prevención.
+7.
+Utilizar los equipos y herramientas suministrados en forma adecuada, у
+En general cumplir con todas las obligaciones establecidas en el artículo 22
+del Decreto 1295 de 1994 y las demás normas que lo modifiquen o sustituyan.
+Artículo 23. EQUIPOS Y PROGRAMAS INFORMÁTICOS. Las necesidades técnicas del
+teletrabajador estarán dadas en función de las necesidades del trabajo encomendado,
+siendo requisitos mínimos, los siguientes:
+1. Un computador personal con las condiciones adecuadas para realizar las
+tareas encomendadas, que puede o no ser suministrado por la empresa,
+dependiendo si el teletrabajador suministra un equipo personal para tal fin.
+2.
+Una conexión de banda ancha con una velocidad adecuada y suficiente
+para las tareas que se lleven a cabo.
+3.
+4.
+Una cuenta de correo electrónico corporativa.
+El resto de las condiciones técnicas necesarias para desempeñar el
+teletrabajo especificadas en el contrato individual de trabajo y en el Reglamento
+Interno de Trabajo.
+Artículo 24. AUXILIO DE CONECTIVIDAD. La empresa deberá otorgar el reconocimiento
+de un auxilio de conectividad para teletrabajadores y teletrabajadoras que devenguen
+menos de dos 2 salarios mínimos legales mensuales vigentes, en reemplazo del auxilio de
+transporte. En todo caso, los teletrabajadores y teletrabajadoras, solo tendrán derecho a
+recibir uno de estos auxilios, independientemente de la modalidad de teletrabajo otorgado.
+El auxilio de conectividad será equivalente al auxilio de transporte vigente y se ajustará
+anualmente de acuerdo con los criterios establecidos a la Ley 278 de 1996.
+El auxilio de conectividad no es constitutivo de salario, sin embargo, el auxilio de
+conectividad será base de liquidación de prestaciones sociales para aquellos trabajadores
+que devenguen hasta dos 2 salarios mínimos legales mensuales vigentes.
+Artículo 25. COMPROMISOS DE LAS PARTES REFERENTE A LOS EQUIPOS,
+APLICACIONES, DOCUMENTACIÓN Y SUMINISTROS ENTREGADOS POR LA EMPRESA. La
+empresa brindará las herramientas específicas hardware /software que considere
+necesarias para el desarrollo de las funciones e implementará las correspondientes
+medidas de control y acceso, con el fin de garantizar la protección de datos y de los mismos
+equipos y aplicaciones entregadas. De igual forma, el teletrabajador deberá respetar lo
+contemplado en las leyes colombianas, así como las instrucciones por escrito que reciban
+de sus supervisores o jefes inmediatos. El teletrabajador deberá conservar, mantener y
+devolver en buen estado, salvo deterioro natural y razonable, en el momento en que la
+BURGER
+KING
+REGLAMENTO INTERNO DE TRABAJO
+Código: GHU-DP-RIT
+Versión: 4
+Fecha de vigencia:
+empresa lo solicite, los instrumentos, equipos informáticos y los útiles que se le haya
+facilitado para la prestación de sus servicios. El teletrabajador no podrá comunicar a
+terceros, salvo autorización expresa y escrita del empleador, o por orden de las
+autoridades competentes, la información que tenga sobre su trabajo, cuyo origen
+provenga del uso de tecnologías de la información que le haya suministrado su empleador,
+especialmente sobre los asuntos que sean de naturaleza reservada y/o cuya divulgación
+pueda ocasionar perjuicios a la empresa o a las personas a quienes se les presta el servicio,
+lo que no obsta para denunciar delitos comunes o violaciones del contrato o de las normas
+legales de trabajo ante las autoridades competentes. De igual forma, el teletrabajador no
+podrá compartir los usuarios y/o contraseñas personales de la empresa que le hayan sido
+entregados con ocasión del teletrabajo contratado.
+ARTÍCULO 26. La empresa habilitó el siguiente correo electrónico
+emendoza@burgerking.com.co o Ipoveda@burgerking.com.co para que los empleados
+puedan usar frente a conductas de vulneración del derecho a desconexión laboral, acoso
+laboral o requerimientos al área de talento humano, así como también para presentar
+quejas a nombre propio o de manera anónima. Frente a la cual la empresa a través del área
+de recursos humanos analizará de manera confidencial las quejas presentadas por
+omisión al derecho de desconexión laboral bajo los parámetros de la Ley 1010 de 2006.
+Frente a lo concerniente con todo lo referido a la Seguridad y Salud en el Trabajo, la
+empresa ha habilitado el siguiente correo electrónico burgerking@burgerking.com.co, y
+para que los empleados puedan realizar anuncios o solicitudes al COPASST.
+Artículo 27. El empleador proporcionará, instalará y mantendrá en buen estado, los
+equipos informáticos necesarios para el correcto desempeño de las funciones del
+teletrabajador, salvo que las partes mediante un mutuo acuerdo estipulen que será el
+teletrabajador quien asumirá la obligación de suministrar, instalar y mantener los equipos
+informáticos necesarios para el desarrollo de sus funciones.
+El teletrabajador tiene la obligación de cuidado de los equipos suministrados, y el uso
+exclusivo para los asuntos concernientes al desarrollo de sus labores y responsable del
+correo electrónico corporativo, y no podrá recolectar o distribuir material ilegal a través
+de internet, ni darle ningún otro uso que no sea determinado por el contrato de trabajo. El
+teletrabajador se compromete a cuidar los elementos de trabajo, así como las
+herramientas que la Empresa ponga a su disposición, y a utilizarlas exclusivamente con los
+fines laborales que previamente se hayan fijado.
+Parágrafo Primero Finalizada la modalidad de teletrabajo, el teletrabajador debe
+reintegrar los equipos informáticos que se le hayan asignado por el empleador.
+Artículo 28. El empleador y el teletrabajador podrán, de mutuo acuerdo, fijar el costo del
+auxilio mensual que compensará los costos de internet, telefonía fija y móvil y energía o se
+podrá de mutuo acuerdo establecer que el teletrabajador asumirá en su totalidad el costo
+de los servicios de internet, telefonía fija y móvil y energía. El empleador y el teletrabajador
+BURGER
+KING
+REGLAMENTO INTERNO DE TRABAJO
+Código: GHU-DP-RIT
+Versión: 4
+Fecha de vigencia:
+acuerdan que no se concederá auxilio de transporte y que el trabajador será el encargado
+de asumir los costos de banda ancha y servicios públicos asociados al teletrabajo.
+Artículo 29. La Empresa controlará y supervisará la actividad del teletrabajador mediante
+medios telemáticos, informáticos y electrónicos. Si por motivos de trabajo, fuese necesaria
+la presencia física de representantes del empleador en el lugar de trabajo del
+teletrabajador y éste fuera su propio domicilio, se hará siempre previa notificación y
+consentimiento de éste. El teletrabajador consiente libremente, realizar reuniones a través
+de videoconferencias con la Empresa, sin que ello se entienda como una violación del
+domicilio privado.
+Parágrafo Primero. El teletrabajador deberá autorizar a las ARL y a la Empresa, la
+realización de visitas periódicas a su domicilio, que permitan comprobar sí el lugar de
+trabajo es seguro y está libre de riesgos. De igual forma, autoriza las visitas de asistencia
+para actividades de Seguridad y Salud en el Trabajo. No obstante, el teletrabajador, debe
+cumplir las condiciones especiales sobre la prevención de riesgos laborales que se
+encuentran definidas en el presente reglamento.
+Artículo 30. El acceso a los diferentes entornos y sistemas informáticos del empleador,
+será efectuado siempre y en todo momento, bajo el control y la responsabilidad del
+teletrabajador, siguiendo los procedimientos establecidos por la Empresa, los cuales
+hacen parte integral del presente reglamento.
+Artículo 31. El teletrabajador se compromete a respetar la legislación en materia de
+protección de datos, las políticas de privacidad y de seguridad de la información que la
+Empresa ha implementado, como también a:
+1. Utilizar los datos de carácter personal a los que tenga acceso, única y
+exclusivamente para cumplir con sus obligaciones para con el empleador.
+2.
+Cumplir con las medidas de seguridad que el empleador haya implementado
+para asegurar la confidencialidad, secreto e integridad de los datos de carácter
+personal a los que tenga acceso, así como a no ceder en ningún caso a terceras
+personas los datos de carácter personal a los que tenga acceso, ni tan siquiera a
+efectos de su conservación.
+Parágrafo Primero. - Los derechos de propiedad intelectual e industrial que se generen
+en virtud del presente contrato, le pertenecen a el empleador. El teletrabajador no tendrá
+las facultades de poder realizar actividad alguna de uso, reproducción, comercialización,
+comunicación pública o transformación sobre el resultado de sus funciones, ni tendrá
+derecho a ejercitar cualquier otro derecho, sin la previa autorización expresa del
+empleador.
+CAPÍTULO VI. DISPOSICIONES SOBRE LA DESCONEXIÓN LABORAL
+Artículo 32. Entiéndase como desconexión laboral el derecho que tienen todos los
+trabajadores, a no tener contacto, por cualquier medio o herramienta, bien sea
+tecnológica o no, para cuestiones relacionadas con su ámbito o actividad laboral, en
+BURGER
+KING
+REGLAMENTO INTERNO DE TRABAJO
+Código: GHU-DP-RIT
+Versión: 4
+Fecha de vigencia:
+horarios por fuera de la jornada ordinaria o jornada máxima legal de trabajo, o convenida,
+ni en sus vacaciones o descansos. Por su parte el empleador se abstendrá de formular
+órdenes u otros requerimientos al trabajador por fuera de la jornada laboral, excepto para
+los cargos de manejo y confianza en la medida que la operación lo exija.
+Artículo 33. Serán destinatarios de las medidas comprendidas en esta política todos los
+empleados de la empresa cualquiera sea el rol que desempeñen.
+Artículo 34. OBJETIVO Y CUMPLIMIENTO DE LAS POLÍTICAS DE DESCONEXIÓN
+LABORAL. Las disposiciones contenidas en estas políticas estarán destinadas a garantizar
+el derecho que tienen todos los trabajadores, a no tener contacto, por cualquier medio o
+herramienta, bien sea tecnológica o no, para cuestiones relacionadas con su ámbito o
+actividad laboral, en horarios por fuera de la jornada laboral, durante el goce de permisos,
+licencias o vacaciones. Las políticas de desconexión laboral son de obligatorio
+cumplimiento para todos los miembros de la compañía, siendo así mismo responsabilidad
+de todos los empleados la materialización efectiva de las mismas. La inobservancia de
+estas podrá constituir una conducta de acoso laboral, en los términos y de conformidad
+con lo establecido en la Ley 1010 de 2006.
+Artículo 35. MEDIDAS DE DESCONEXIÓN LABORAL. El personal perteneciente a la
+compañía se abstendrá de enviar comunicaciones de índole laboral a través de cualquier
+medio tecnológico una vez finalizada la jornada laboral o durante el goce de permisos,
+licencias o vacaciones, salvo que se trate de una situación excepcional y de fuerza mayor.
+Los empleados que tengan personal a cargo deben cumplir especialmente las políticas de
+desconexión laboral. En relación con la utilización de las herramientas de trabajo
+facilitadas por la compañía, entre ellas, los sistemas y equipos informáticos y medios
+tecnológicos puestos a disposición del personal, se establecen las siguientes normas para
+su correcta utilización:
+Los empleados de la compañía deberán hacer un uso adecuado y
+responsable de las herramientas tecnológicas puestas a su disposición, evitando
+su utilización fuera del horario laboral.
+Los sistemas y equipos informáticos de la empresa son de uso
+exclusivamente profesional y por ende dentro de la jornada laboral, de recibir
+correos fuera del horario laboral, no se entenderán que deban ser resueltos por
+fuera de la jornada laboral a menos que se trate de situaciones de fuerza mayor o
+caso fortuito.
+Está prohibido utilizar el correo electrónico para fines distintos de aquéllos
+para lo que haya sido asignado.
+Los empleados tienen la obligación de cuidado de los equipos
+suministrados, y el uso adecuado y responsable del correo electrónico corporativo
+no pudiendo recolectar o distribuir material ilegal a través de internet.
+Articulo 36. PROCEDIMIENTO INTERNO PARA EL TRÁMITE DE QUEJAS. La compañía
+habilitó el correo electrónico emendoza@burgerking.com.co para que los empleados
+frente conductas de vulneración del derecho a la desconexión laboral puedan presentar
+quejas a nombre propio, frente al cual la empresa a través del área de recursos humanos
+BURGER
+KING
+REGLAMENTO INTERNO DE TRABAJO
+Código: GHU-DP-RIT
+Versión: 4
+Fecha de vigencia:
+analizará de manera confidencial las quejas presentadas por omisión al derecho de
+desconexión laboral y tomará medidas al respecto. Los empleados que consideren
+vulnerado de manera repetitiva su derecho de desconexión laboral podrá activar el comité
+de convivencia laboral creado al interior de la compañía, a través del correo
+comiteconvivencialaboral@burgerking.com.co para que se analice tal situación bajo los
+parámetros de la Ley 1010 de 2006. La compañía brindará capacitaciones a todos sus
+empleados en especial a los que tengan personal a su cargo en relación con la aplicación
+de la Ley 2191 de 2022.
+CAPÍTULO VII. DISPOSICIONES REGLAMENTARIAS SOBRE EL TRABAJO DE LOS
+MENORES DE EDAD.
+Artículo 37. Dado el caso de que BKCOL S.A.S. Ilegase a vincular menores de edad, dicho
+vínculo será regulado por los artículos que integran el presente capítulo en concordancia
+con la regulación laboral vigente
+Parágrafo primero: Los menores de diez y ocho (18) años y mayores de quince (15) años
+necesitan para trabajar autorización escrita del Inspector del Trabajo o, en su defecto, de
+la primera autoridad local, a solicitud de los padres y a falta de éstos del Defensor de
+Familia.
+Parágrafo segundo: Prohíbase el trabajo de los menores de quince (15) años y es
+obligación de sus padres disponer que acudan a los centros de enseñanza (Convenio 138
+ΟΙΤ.)
+Artículo 38. El menor deberá demostrar su edad, mediante la presentación del registro
+civil de nacimiento o tarjeta de identidad.
+Parágrafo: Cuando el menor carezca de registro civil, el Defensor de Familia, a petición de
+aquel, deberá solicitar su inscripción en la Notaría u oficina de registro respectiva, para lo
+cual llenará los requisitos de ley.
+El funcionario competente para expedir el registro deberá atender de inmediato la
+solicitud del Defensor de Familia expidiéndolo en forma gratuita.
+Artículo 39. La duración máxima de la jornada de trabajo del menor se sujetará a las
+siguientes reglas:
+1. Los mayores de quince (15) años y menores de diecisiete (17) años sólo podrán
+trabajar en una jornada máxima de seis (6) horas diarias, treinta (30) horas
+semanales (Art. 114 de la ley 1098 de 2006)
+2. La jornada de trabajo del menor entre dieciséis (17) y dieciocho (18) años no podrá
+exceder de ocho (8) horas diarias, cuarenta (40) horas semanales
+BURGER
+KING
+REGLAMENTO INTERNO DE TRABAJO
+Código: GHU-DP-RIT
+Versión: 4
+Fecha de vigencia:
+3. La jornada de la adolescente embarazada mayor de quince (15) y menor de
+dieciocho (18) años, no podrá exceder de cuatro horas diarias a partir del séptimo
+mes de gestación y durante la lactancia, sin disminución de su salario y prestaciones
+sociales
+Artículo 40. El menor trabajador tendrá derecho al salario, prestaciones sociales y demás
+garantías que la ley concede a los trabajadores mayores de dieciocho (18) años.
+Parágrafo primero: En ningún caso la Seguridad Social y las demás garantías otorgadas
+a los trabajadores mayores de dieciocho (18) años, podrán ser disminuidas cuando se trate
+de trabajadores menores de edad.
+Parágrafo segundo: Para la afiliación a la Seguridad Social para el menor trabajador,
+bastará la presentación de su documento de identificación y, en su defecto, la copia del
+registro de nacimiento.
+Una vez realizada la afiliación a la Seguridad Social, la entidad respectiva deberá expedir
+al menor un carné en el cual se identifique a fin de recibir los servicios de que trata el
+presente título.
+Parágrafo tercero: Efectuada la afiliación el menor tendrá derecho a todas las
+prestaciones económicas y asistenciales, otorgadas por cada uno de los sistemas que
+integran la Seguridad Social Integral.
+Artículo 41. Cuando por omisión del empleador, el trabajador menor de dieciocho (18) años
+no se encuentre afiliado al Sistema General de Seguridad Social y el menor sufriere
+accidente de trabajo, enfermedad profesional, enfermedad general o se encontrase en
+período de maternidad, tendrá derecho, desde el momento de su vinculación con el
+empleador, a las prestaciones económicas y de asistenciales que hubiese reconocido las
+entidades administradoras de la Seguridad Social.
+Artículo 42. En los lugares del territorio Nacional donde la Seguridad Social no haya
+extendido sus servicios, los empleadores están obligados a otorgar las prestaciones
+consagradas en el Código Sustantivo del Trabajo en favor de los menores. Esta obligación
+dejará de estar a cargo de BKCOL S.A.S. cuando las contingencias sean asumidas por la
+Seguridad Social en términos de la Ley 100 de 1993.
+Artículo 43. El menor trabajador tendrá derecho a la capacitación y se le otorgará permiso
+no remunerado cuando la actividad escolar así lo requiera.
+Artículo 44. Los menores no podrán ser empleados en los trabajos prohibidos por el
+Decreto 2737 de 1989 en sus artículos 245 y 246; y particularmente en los que a continuación
+se enumeran, por cuanto suponen exposición severa a riesgos para su salud o integridad
+física:
+1.
+Trabajos que tengan que ver con sustancias tóxicas o nocivas para la salud.
+BURGER
+KING
+2.
+REGLAMENTO INTERNO DE TRABAJO
+Código: GHU-DP-RIT
+Versión: 4
+Fecha de vigencia:
+Trabajos a temperaturas anormales o en ambientes contaminados o con
+insuficiente ventilación.
+3. Trabajos subterráneos de minería de toda índole y en los que confluyen
+agentes nocivos, tales como contaminantes, desequilibrios térmicos, deficiencia de
+oxígeno a consecuencia de la oxidación o la gasificación.
+4.
+Trabajos donde el menor de edad esté expuesto a ruidos que sobrepasen
+ochenta 80 decibeles.
+5.
+Trabajos donde se tenga que manipular con sustancias radiactivas, pinturas
+luminiscentes, rayos x, o que impliquen exposición a radiaciones ultravioletas,
+infrarrojas y emisiones de radiofrecuencia.
+6.
+voltaje.
+7.
+8.
+Todo tipo de labores que impliquen exposición a corrientes eléctricas de alto
+Trabajos submarinos.
+Trabajos de basurero o en cualquier otro tipo de actividades donde se
+generen agentes biológicos patógenos.
+9.
+Actividades que impliquen el manejo de sustancias explosivas, inflamables o
+cáusticas.
+10. Trabajos de pañoleros o fogoneros, en los buques de transporte marítimo.
+11.
+sulfato de plomo o de cualquier otro producto que contenga dichos elementos.
+12. Trabajos en máquinas esmeriladoras, afilado de herramientas, en muelas
+abrasivas de alta velocidad y en ocupaciones similares.
+Trabajos de pintura industrial que entrañen el empleo de la cerusa del
+13.
+Trabajos en altos hornos, hornos de fundición de metales, fábricas de acero,
+talleres de laminación, trabajos de forja, y en prensa pesada de metales.
+14.
+15.
+Trabajos y operaciones que involucren la manipulación de cargas pesadas.
+Trabajos relacionados con cambios, de correas de transmisión, aceite,
+engrasado y otros trabajos próximos a transmisiones pesadas o de alta velocidad.
+16.
+Trabajos en cizalladoras, cortadoras, laminadoras, tornos, fresadoras,
+troqueladoras, y otras máquinas particularmente peligrosas.
+17.
+Trabajo del vidrio y alfarería, trituración y mezclado de materia prima;
+trabajo de hornos, pulido y esmerilado en seco de vidriería, operaciones de limpieza
+por chorro de arena, trabajo en locales de vidriado y grabado, trabajos en la
+industria cerámica.
+18. Trabajo de soldadura de gas y arco, corte con oxígeno en tanques o lugares
+confinados, en andamios o en molduras precalentadas.
+19.
+Trabajos en fábricas de ladrillos, tubos y similares, moldeado de ladrillos
+amano, trabajo en las prensas y hornos de ladrillos.
+20.
+Trabajo en aquellas operaciones y/o procesos en donde se presenten altas
+temperaturas y humedad.
+21. Trabajos en la industria metalúrgica de hierro y demás metales, en las
+operaciones $y/o$ procesos donde se desprende vapores o polvos tóxicos y en
+plantas de cemento.
+22. Actividades agrícolas o agroindustriales que impliquen alto riesgo para la
+salud.
+23.
+Las demás que señalen en forma específica los reglamentos del Ministerio
+de Trabajo y Seguridad Social.
+BURGER
+KING
+REGLAMENTO INTERNO DE TRABAJO
+Código: GHU-DP-RIT
+Versión: 4
+Fecha de vigencia:
+Parágrafo Primero. Los trabajadores menores de dieciocho (18) años y mayores de quince
+(15), que cursen estudios técnicos en el Servicio Nacional de Aprendizaje o en un instituto
+técnico especializado reconocido por el Ministerio de Educación Nacional o en una
+institución del sistema nacional de bienestar familiar autorizada para el efecto por el
+Ministerio de Trabajo y Seguridad Social, o que obtengan el certificado de aptitud
+profesional expedido por el Servicio Nacional de Aprendizaje, SENA, podrán ser empleados
+en aquellas operaciones, ocupaciones o procedimientos señalados en este Artículo, que a
+juicio del Ministerio de Trabajo y Seguridad Social, puedan ser desempeñados sin grave
+riesgo para la salud o la integridad física del menor mediante un adecuado entrenamiento
+y la aplicación de las medidas de seguridad que garanticen plenamente la prevención de
+los riesgos anotados.
+Parágrafo Segundo. Está prohibido a los trabajadores menores de dieciocho (18) años
+todo trabajo que afecte su moralidad. En especial está prohibido el trabajo en casas de
+lenocinio y demás lugares de diversión donde se consuman bebidas alcohólicas. De igual
+modo se prohíbe su contratación para la reproducción de escenas pornográficas, muertes
+violentas, apología del delito u otros semejantes.
+Parágrafo Tercero: Queda prohibido emplear a los menores de dieciocho (18) años y las
+mujeres en trabajo de pintura industrial, que entrañen el empleo de la cerusa, del sulfato
+de plomo o de cualquier otro producto que contenga dichos pigmentos. Las mujeres sin
+distinción de edad y los menores de dieciocho 18 años no pueden ser empleados en
+trabajos subterráneos de las minas ni en general trabajar en labores peligrosas, insalubres
+o que requieran grandes esfuerzos.
+Artículo 45. Además de las prohibiciones contenidas en el artículo 59 del Código Sustantivo
+del Trabajo y las establecidas en el Decreto $2737/89,$ no se podrá despedir a trabajadoras
+menores de edad, cuando se encuentren en estado de embarazo o durante la lactancia,
+sin la autorización de los funcionarios encargados de la vigilancia y control del trabajo de
+menores. El despido que se produjera sin esta autorización no produce efecto alguno.
+Parágrafo primero: Igualmente se prohíbe a los empleadores de trabajadores menores de
+dieciocho 18 años de edad, trasladarlos del lugar de su domicilio sin el consentimiento de
+sus padres o guardadores o, en su defecto, del Defensor de Familia, salvo temporalmente
+y sólo cuando se trate de participar en programas de capacitación.
+Artículo 46. Las normas laborales sustantivas y de procedimiento que rigen las relaciones
+laborales para adultos, se aplicarán al trabajo del menor en cuanto no sean contrarias a
+las señaladas en el Código del Menor.
+CAPÍTULO VIII. TRABAJO SUPLEMENTARIO O DE HORAS EXTRAS Y TRABAJO
+NOCTURNO
+Artículo 47. Trabajo suplementario o de horas extras es el que excede de la jornada
+ordinaria, y en todo caso el que excede de la máxima legal. En ningún caso las horas extras
+BURGER
+KING
+REGLAMENTO INTERNO DE TRABAJO
+Código: GHU-DP-RIT
+Versión: 4
+Fecha de vigencia:
+de trabajo, diurnas o nocturnas podrán exceder de dos (2) horas diarias y doce (12)
+semanales. Cuando la jornada de trabajo se amplie por acuerdo entre empleadores y
+trabajadores a diez (10) horas diarias, no podrán en el mismo día laborar horas extras. (Art.
+159 C.S de T)
+Artículo 48. El trabajo nocturno, el trabajo extra diurno y el trabajo extraordinario
+nocturno se remuneran tal y como lo establece el Código Sustantivo de Trabajo. (Art. 168
+de C.S de T)
+Parágrafo: Cada uno de los recargos a que se refieren los artículos anteriores se produce
+de manera exclusiva, es decir, sin acumulación con ningún otro. (Numeral 4, Art. 168 de C.S
+de T)
+Artículo 49. El pago del trabajo suplementario o de horas extras y el del recargo por
+trabajo nocturno, debe efectuarse junto con el salario ordinario del período en el que se
+han causado, o a más tardar, en forma simultánea con el pago del período siguiente.
+(Numeral 02, Art. 134 C.S de T)
+Artículo 50. BKCOL S.A.S. no reconocerá trabajo suplementario o de horas extras sino
+cuando lo exija o cuando expresamente lo autorice a sus trabajadores, por escrito por los
+medios que se destinen al efecto.
+Artículo 51. Las actividades no contempladas en el artículo 162 del C.S.T. pueden exceder
+los límites señalados para la duración de la jornada máxima de trabajo, sin necesidad
+autorización expresa del Ministerio de Trabajo, pero no podrán pasar de dos (2) horas
+diarias ni doce (12) horas semanales y se exigirá a BKCOL S.A.S. llevar diariamente un
+registro del trabajo suplementario de cada trabajador, en el que se especifique: nombre
+de éste, cargo, actividad desarrollada, número de horas laboradas, indicando si son
+diurnas o nocturnas.
+En las autorizaciones que se concedan se exigirá a BKCOL S.A.S. entregar al trabajador
+cuando lo solicite una relación de las horas extras laboradas, con las mismas
+especificaciones anotadas en el registro de nómina.
+Artículo 52. El trabajo diurno y el nocturno son los que se encuentran establecidos en la
+normatividad vigente.
+CAPÍTULO IX. TURNOS ESPECIALES DE TRABAJO NOCTURNO
+Artículo 53. BKCOL S.A.S. podrá implantar turnos especiales de trabajo nocturno, de
+acuerdo con lo previsto por el Decreto 2352 de 1965, mediante la contratación de nuevos
+contingentes de trabajadores, con quienes podrá pactar remuneraciones sobre las cuales
+no opera el recargo estipulado en la normatividad vigente.
+BURGER
+KING
+REGLAMENTO INTERNO DE TRABAJO
+Código: GHU-DP-RIT
+Versión: 4
+Fecha de vigencia:
+Artículo 54. El trabajo de horas extras que se hiciere en los turnos especiales de que trata
+el artículo anterior, se remunerará con un recargo estipulado en la normatividad vigente,
+sobre el valor del salario ordinario que se hubiere pactado para el turno correspondiente.
+Artículo 55. En ningún caso el salario para los turnos especiales de trabajo nocturno podrá
+ser inferior al salario ordinario que se pague en BKCOL S.A.S. por el trabajo diurno, a los
+trabajadores que ejecuten labores iguales o similares.
+Artículo 56. BKCOL S.A.S. no podrá contratar para los turnos especiales de trabajo
+nocturno a que se refiere el Decreto 2352 de 1965, a los trabajadores que en la actualidad
+presten sus servicios en ella, si lo hiciere, deberá pagarles el recargo establecido en el
+numeral 10., artículo 168 del Código Sustantivo del Trabajo.
+Artículo 57. Los contratos de trabajo o pactos sindicales que la empresa celebre en
+desarrollo del Decreto 2352 de 1965, no podrá exceder de seis (6) meses prorrogables por
+seis (6) meses a juicio del Ministerio del Trabajo.
+Artículo 58. BKCOL S.A.S. si desea hacer uso de la autorización consagrada el artículo
+respectivo este reglamento, deberá comprobar ante el Ministerio del trabajo, que los
+trabajadores contratados para los turnos adicionales no están en la actualidad prestando
+sus servicios a la empresa.
+CAPÍTULO X. DÍAS DE DESCANSO LEGALMENTE OBLIGATORIO
+Artículo 59. Serán días de descanso obligatorio remunerado los domingos y los siguientes
+días de fiesta, de carácter civil o religioso; reconocidos por nuestra legislación laboral: 1de
+Enero; 6 de Enero; 19 de Marzo; 1 de Mayo; 29 de Junio; 20 de Julio; 7de Agosto; 15 de Agosto;
+12 de Octubre; 1 de Noviembre; 11 de Noviembre; 8 de Diciembre; 25 de Diciembre. Además
+de los días Jueves y Viernes Santo, el de la Ascensión del Señor, el del Corpus Christi y el
+del Sagrado Corazón de Jesús.
+Pero el descanso remunerado del 6 de Enero, 19 de Marzo, 29 de Junio, 15 de Agosto, 12 de
+Octubre, 1 de Noviembre, 11 de Noviembre, Ascensión del Señor, Corpus Christi y Sagrado
+Corazón de Jesús, cuando no caigan día Lunes, se trasladarán al Lunes siguiente a dicho
+día. Cuando las mencionadas festividades caigan en domingo, el descanso remunerado
+igualmente se trasladará al lunes.
+Artículo 60: El descanso de los dominicales y días expresados en el artículo anterior tienen
+una duración de veinticuatro (2)4 horas, salvo la excepción consagrada en el literal c del
+artículo 20 de la ley $50/90$.
+Parágrafo primero. Entiéndase la expresión dominical contenida en el presente
+reglamento como "día de descanso obligatorio"
+Parágrafo segundo. Las partes del contrato de trabajo podrán convenir por escrito que
+su día de descanso sea distinto al domingo. En caso de que las partes no lo hagan expreso
+en el contrato u otro sí, se presumirá como día de descanso obligatorio el domingo.
+BURGER
+KING
+REGLAMENTO INTERNO DE TRABAJO
+Código: GHU-DP-RIT
+Versión: 4
+Fecha de vigencia:
+Artículo 61. REMUNERACIÓN. BKCOL S.A.S. debe remunerar el descanso dominical con
+el salario ordinario de un (1) día, a los trabajadores que, habiéndose obligado a prestar sus
+servicios en todos los días laborales de la semana, no falten al trabajo, o que, si faltan, lo
+hayan hecho por justa causa o por culpa o disposición del empleador. (Numeral 01, Art. 172
+C.S de T)
+Parágrafo primero: Se entiende por justa causa el accidente, la enfermedad, la calamidad
+doméstica, la fuerza mayor y los casos fortuitos debidamente probados (Numeral 02, Art.
+172 C.S de T)
+Parágrafo segundo: No tiene derecho a la remuneración del descanso dominical el
+trabajador que deba recibir por ese mismo día un auxilio o indemnización en dinero por
+enfermedad o accidente común o de trabajo. (Numeral 03, Art. 172 C.S de T.)
+Parágrafo tercero: Para los efectos de este artículo, los días de fiesta no interrumpen la
+continuidad y se computan como si en ellos se hubiera prestado el servicio por el
+trabajador. (Numeral 04, Art. 172 C.S de T)
+Parágrafo cuarto: Cuando la jornada de trabajo convenida por las partes, en días u horas,
+no implique la prestación de servicios en todos los días laborables de la semana, el
+trabajador tendrá derecho a la remuneración del descanso dominical en proporción al
+tiempo laborado. (Numeral 05, Art. 172 C.S de T.)
+Artículo 62. Como remuneración del descanso dominical el trabajador o jornalero recibirá
+el salario ordinario de un día, aún en el caso de que el descanso dominical coincida con una
+fecha que la ley señale también como de descanso obligatorio remunerado. En todo sueldo
+se entiende comprendido el pago del descanso en los días en que es legalmente obligatorio
+y remunerado. (Art. 174 C.S de T)
+Artículo 63. Cuando no se trate de un salario fijo como en los casos de remuneración por
+tarea, destajo o unidad de obra, el salario computable para los efectos de remuneración
+del descanso dominical, es el promedio de lo devengado por el trabajador en la semana
+inmediatamente anterior, tomando solamente los días trabajados, salvo lo que sobre
+salarios básicos fijos para estos mismos efectos se establezcan de modo más favorables
+para el trabajador, en pactos, convenciones colectivas y fallos arbitrales.
+Artículo 64. La remuneración correspondiente al descanso obligatorio remunerado en los
+días de fiesta distintos del domingo, se liquidará como para el descanso dominical, pero sin
+que haya lugar a descuento alguno por faltas al trabajo.
+Artículo 65. El trabajo dominical o días de fiesta se remunera con un recargo de acuerdo
+con lo estipulado en la normatividad vigente.
+BURGER
+KING
+REGLAMENTO INTERNO DE TRABAJO
+Código: GHU-DP-RIT
+Versión: 4
+Fecha de vigencia:
+Artículo 66. El trabajador que labore excepcionalmente el día de descanso obligatorio
+tiene derecho a un descanso compensatorio remunerado, o a una retribución en dinero, a
+su elección, en la forma prevista en el artículo anterior.
+Artículo 67. El trabajador que labore habitualmente en día de descanso obligatorio tiene
+derecho a un descanso compensatorio remunerado, sin perjuicio de la retribución en
+dinero prevista en el artículo respectivo de este Reglamento. (Art. 181 C.S de T)
+Parágrafo: En el caso de la jornada de treinta y seis 36 horas semanales prevista en el
+artículo 20 literal C de la ley 50 de 1990 el trabajador sólo tendrá derecho a un descanso
+compensatorio remunerado cuando labore en domingo.
+Artículo 68. Las personas que por conocimientos técnicos o por razón del trabajo que
+ejecutan, no pueden reemplazarse sin grave perjuicio para la Empresa, deben trabajar los
+domingos y días de fiesta con derecho al descanso compensatorio, pero su trabajo se
+compensará conforme al artículo respectivo de este Reglamento. (Art. 182 C.S de T)
+Parágrafo: Los trabajadores de esta empresa que ejecuten actividades no susceptibles de
+interrupción, deben trabajar los domingos y días de fiesta, remunerándose su trabajo en la
+forma prevista en el artículo 26 de la ley 789 de 2002.
+Artículo 69. El descanso semanal compensatorio puede darse en alguna de las siguientes
+formas de conformidad con el art. 183 C.S de T.
+1. En otro día laborable de la semana siguiente, a todo el personal de la
+Empresa o por turnos.
+2. Desde el medio día de la una de la tarde (1:00 p.m.) del domingo o del día de
+descanso obligatorio, hasta la una de la tarde (1:00 p.m.) del lunes o día siguiente
+al del descanso.
+CAPÍTULO XI. DESCANSO CONVENCIONAL O ADICIONAL
+Artículo 70. Cuando por motivo de cualquier fiesta no determinada en el artículo
+correspondiente de este Reglamento BKCOL S.A.S. suspendiere el trabajo, está obligada
+a pagar el salario de ese día, como si se hubiera realizado. No está obligado a pagarlo
+cuando hubiere mediado convenio expreso para la suspensión del trabajo o su
+compensación en otro día hábil, o cuando la suspensión o compensación estuviere prevista
+en reglamento, pacto, convención colectiva o fallo arbitral. Este trabajo compensatorio se
+remunera sin que se entienda como trabajo suplementario o de horas extras. (Art. 178 C.S
+de T)
+CAPÍTULO XII. VACACIONES REMUNERADAS.
+Artículo 71. Los trabajadores que hubieren prestado sus servicios durante un (1) año
+continúo, tiene derecho a quince (15) días hábiles de vacaciones remuneradas. (Art. 186,
+numeral 1, C.S de T)
+BURGER
+KING
+REGLAMENTO INTERNO DE TRABAJO
+Código: GHU-DP-RIT
+Versión: 4
+Fecha de vigencia:
+Artículo 72. La época de las vacaciones debe ser señalada por BKCOL S.A.S. a más tardar
+dentro del año subsiguiente a aquel en que se hayan causado y ellas deben ser concedidas
+oficiosamente o a petición del trabajador, sin perjudicar el servicio y la efectividad del
+descanso, con quince (15) días de anticipación se avisará al trabajador la fecha en que le
+concederán las vacaciones. (Art. 187 C.S de T).
+Artículo 73. BKCOL S.A.S. deberá llevar un registro especial de vacaciones en el que
+anotará la fecha en que ha ingresado al establecimiento cada trabajador, la fecha en que
+toma sus vacaciones anuales y en que las termina y la remuneración recibida por las
+mismas.
+Artículo 74. Si se presenta interrupción justificada en el disfrute de las vacaciones, el
+trabajador no pierde el derecho a reanudarlas. (Art. 188 C.S de T)
+Artículo 75. BKCOLS.A.S. podrá acordar por escrito con sus trabajadores, previa solicitud
+de éstos, que se pagué en dinero hasta la mitad de las vacaciones (Art 20. Ley 1429 de 2010).
+Artículo 76. Cuando el contrato de trabajo termine sin que el trabajador hubiere disfrutado
+de vacaciones, la compensación de éstas en dinero procederá no sólo por un año cumplido
+de servicios sino proporcionalmente por fracción de año, cualquiera ésta sea.
+Artículo 77. BKCOL S.A.S. puede convenir con sus trabajadores en acumular las
+vacaciones por dos (2) años. La acumulación puede ser hasta por cuatro (4) años, cuando
+se trate de trabajadores técnicos, especializados, de confianza, de manejo, o de
+extranjeros que presten sus servicios en lugares distintos a los de la residencia de sus
+familiares.
+Parágrafo: Sin embargo, el trabajador gozará anualmente, por lo menos de seis (6) días
+hábiles continuos de vacaciones, los que no son acumulables. (Art. 190 C.S de T).
+Artículo 78. BKCOL S.A.S. puede determinar, para todos o parte de sus trabajadores, una
+época fija para las vacaciones simultáneas o colectivas, y si así lo hiciere, los que en tal
+época no llevaren un (1) año cumplido de servicios, se entenderá que las vacaciones de que
+gozan son anticipadas y se abonarán al cumplir cada uno el año de servicios.
+Parágrafo: Si el trabajador se retira del servicio de la empresa sin haber cumplido el
+período legal de vacaciones, no podrá retenérsele su valor, sin previo permiso de aquél.
+Artículo 79. Durante el período de sus vacaciones, el trabajador recibirá el salario
+ordinario que esté devengando. En consecuencia, sólo se excluirán para la liquidación de
+vacaciones el valor del trabajo en días de descanso obligatorio y el valor del trabajo
+suplementario o de horas extras. Las vacaciones se pagarán, en la proporción en la que
+fueron aprobadas, en la quincena más próxima a la fecha de salida del trabajador
+BURGER
+KING
+REGLAMENTO INTERNO DE TRABAJO
+Código: GHU-DP-RIT
+Versión: 4
+Fecha de vigencia:
+Parágrafo: Cuando el salario sea variable, las vacaciones se liquidarán con el promedio
+de lo devengado por el trabajador en el año inmediatamente anterior a la fecha en que se
+conceden. (Art. 192 C.S de T)
+Artículo 80. Los trabajadores vinculados con contratos de trabajo inferiores a término fijo
+a un año tienen derecho a vacaciones en forma proporcional al tiempo servido, cualquiera
+que este sea, conforme la ley 789 de 2002.
+CAPÍTULO XIII. PERMISOS Y LICENCIAS
+Artículo 81. BKCOL S.A.S. concederá a sus trabajadores los permisos necesarios para el
+ejercicio del derecho de sufragio y para el desempeño de cargos oficiales transitorios de
+forzosa aceptación y especialmente, en caso de grave calamidad doméstica debidamente
+comprobada, para asistir a las obligaciones escolares como acudiente, en las que resulte
+obligatoria la asistencia del trabajador por requerimiento del centro educativo, para
+atender citaciones judiciales, administrativas y legales, los empleados de empresas
+privadas y trabajadores regidos por el Código Sustantivo del Trabajo, podrán acordar con
+el empleador, un (1) día de descanso remunerado por cada seis (6) meses de trabajo, en el
+cual certifiquen el uso de bicicletas como medio de transporte para la llegada y salida del
+sitio de trabajo y para Para asistir a citas médicas de urgencia o citas médicas
+programadas con especialistas cuando se informe al empleador junto certificado previo,
+incluyendo aquellos casos que se enmarquen con lo dispuesto desde el Ministerio de Salud
+y Protección Social para el diagnóstico y el tratamiento de la Endometriosis incluido en la
+Ley 2338 de 2023.
+Parágrafo primero: De igual manera la empresa concederá permiso a los trabajadores
+para desempeñar Comisiones Sindicales inherentes a la organización. Será la respectiva
+Convención Colectiva de Trabajo la que señale las condiciones, número de personas, días
+y demás particularidades de este tema.
+Parágrafo segundo: Igualmente concederá permiso a los trabajadores para asistir al
+sepelio de sus compañeros, siempre que se avise con la debida oportunidad al empleador,
+y el número de los que se ausenten no sea tal que perjudique el funcionamiento de la
+empresa.
+Parágrafo tercero: La concesión de los permisos relacionados en el artículo anterior, se
+sujetará a las siguientes condiciones:
+1) En caso de grave calamidad doméstica, la oportunidad del aviso puede ser anterior
+o posterior al hecho que lo constituye o al tiempo de ocurrir éste, según lo permitan las
+circunstancias.
+2) En caso de entierro de compañeros de trabajo, el aviso puede ser hasta con un día
+de anticipación y el permiso se le concederá de acuerdo con la necesidad del servicio
+a los empleados de la empresa.
+3) En los demás casos sufragio, desempeño de cargos transitorios de forzosa
+aceptación, concurrencia al servicio médico correspondiente El aviso se dará con la
+anticipación que las circunstancias lo permitan.
+BURGER
+KING
+REGLAMENTO INTERNO DE TRABAJO
+Código: GHU-DP-RIT
+Versión: 4
+Fecha de vigencia:
+Para concurrir a los correspondientes servicios médicos deberá presentarse la constancia
+o el comprobante respectivo y hacerle colocar al mismo la hora de ingreso a la cita y la
+hora en que ella termina, los permisos deben ser correctamente diligenciados mediante el
+trámite que para el efecto determina el área de Gestión del Talento Humano
+En caso de tener que concurrir a citas médicas de la E.P.S. respectiva, el trabajador deberá
+presentar previamente a la Empresa la "tarjeta de comprobación" en que figure tal cita,
+así como también presentar, después de esta, una constancia del médico o enfermera
+autorizados, sobre la hora de terminación de esta.
+Reportar inmediatamente las incapacidades con el fin de que estas puedan ser tramitadas
+oportunamente y evitar así contratiempos. Al regreso de la incapacidad presentar el
+documento original al aérea de nómina o jefe directo.
+En caso de grave calamidad doméstica debidamente comprobada, entendiéndose como
+todo suceso personal, familiar, hasta el tercer grado de consanguinidad, segundo de
+afinidad o primero civil, caso fortuito o fuerza mayor cuya gravedad afecte el normal
+desarrollo de las actividades del trabajador, este debe avisar a la Empresa antes, después
+o al tiempo de ocurrir los hechos, según lo permitan las circunstancias, acompañando las
+pruebas que acrediten los hechos.
+Parágrafo cuarto: En todos los casos, los trabajadores están obligados a solicitar el
+permiso o licencia con la debida y prudente anticipación y por escrito, indicando los
+motivos que los justifiquen y acompañado las pruebas del caso, sin que ningún trabajador
+pueda entrar a disfrutar del permiso sin antes haber obtenido expresamente la
+autorización escrita correspondiente.
+Parágrafo quinto: En ninguno de los casos, los trabajadores podrán emplear en los
+permisos concedidos más tiempo que el estrictamente necesario para el acto o diligencia
+para el cual el permiso hubiere sido concedido, sin exceder del tiempo convenido. De lo
+contrario, la Empresa dejará de pagar el tiempo tomado en exceso y podrá imponer las
+sanciones del caso por ausencia injustificada.
+Artículo 82. No son tomados como calamidad doméstica los permisos solicitados por los
+empleados para citas médicas, odontológicas, exámenes médicos, programados con
+anticipación y asistencia a eventos que puedan ser encargados a otras personas como
+asistentes o representantes de los padres.
+Parágrafo: Para concurrir a los correspondientes servicios médicos, deberá presentarse
+la constancia o el comprobante respectivo y hacerle colocar al mismo la hora de ingreso a
+la cita y la hora en que ella termina, se tiene como descuento el tiempo total reportado del
+empleado en cada cita médica, los permisos personales deben ser solicitados de acuerdo
+el procedimiento que se tenga establecido para tal fin.
+BURGER
+KING
+REGLAMENTO INTERNO DE TRABAJO
+Código: GHU-DP-RIT
+Versión: 4
+Fecha de vigencia:
+Artículo 83. BKCOL S.A.S. concederá al trabajador en caso de fallecimiento de cónyuge,
+compañero permanente, o de un familiar hasta el grado segundo de consanguinidad,
+primero de afinidad y primero civil una licencia remunerada por luto por el tiempo que se
+establezca en la normatividad vigente, cualquiera sea su modalidad de contratación o de
+vinculación laboral. (Ley 1280 de 2009).
+Parágrafo: Este hecho deberá demostrarse mediante documento expedido por la
+autoridad competente, dentro de los treinta 30 días siguientes a su ocurrencia. (Ley 1280
+de 2009).
+Artículo 84. Toda trabajadora en estado de embarazo tiene derecho a una licencia de
+dieciocho (18) semanas en la época de parto, remunerada con el salario que devengue al
+entrar a disfrutar de la licencia.
+La licencia de maternidad para madres de niños prematuros tendrá en cuenta la
+diferencia entre la fecha gestacional y el nacimiento a término, las cuales serán sumadas
+a las dieciocho (18) semanas que se establecen en la presente ley. Cuando se trate de
+madres con parto múltiple o madres de un hijo con discapacidad, la licencia se ampliará
+en dos semanas más.
+Para los efectos de la licencia de que trata este artículo, la trabajadora debe presentar al
+empleador un certificado médico, en el cual debe constar:
+α)
+El estado de embarazo de la trabajadora.
+b)
+c)
+La indicación del día probable del parto.
+La indicación del día desde el cual debe empezar la licencia, teniendo en cuenta
+que, por lo menos, ha de iniciarse dos semanas antes del parto. (Ley 1822 de 2017)
+La trabajadora que haga uso de la licencia en la época del parto tomará las dieciocho (18)
+semanas de licencia a las que tiene derecho de la manera en la que lo establece el Código
+Sustantivo de Trabajo.
+Parágrafo primero: De las dieciocho (18) semanas de licencia remunerada, la semana
+anterior al probable parto será de obligatorio goce a menos que el médico tratante
+prescriba algo diferente. La licencia remunerada de la que habla este artículo es
+incompatible con la licencia de calamidad doméstica y en caso de haberse solicitado esta
+última por el nacimiento de un hijo, estos días serán descontados de la misma.
+Parágrafo segundo: Todo trabajador, cónyuge o compañero permanente, cuya cónyuge
+o compañera permanente haya dado a luz tendrá derecho a dos (2) semanas de licencia
+remunerada de paternidad. La licencia remunerada de paternidad opera por los hijos
+nacidos del cónyuge o de la compañera permanente, así como para el padre adoptante. El
+único soporte válido para el otorgamiento de esta licencia remunerada de paternidad es
+el Registro Civil de Nacimiento, el cual deberá presentarse a la EPS a más tardar dentro de
+los 30 días siguientes a la fecha del nacimiento del menor. Esta licencia de paternidad
+estará a cargo de la EPS y será reconocida proporcionalmente a las semanas cotizadas
+por el padre durante el periodo de gestación.
+BURGER
+KING
+REGLAMENTO INTERNO DE TRABAJO
+Código: GHU-DP-RIT
+Versión: 4
+Fecha de vigencia:
+Parágrafo tercero: Licencia parental compartida. Los padres podrán distribuir
+libremente entre sí las últimas seis (6) semanas de la licencia de la madre, siempre y cuando
+cumplan las condiciones y requisitos exigidos por el parágrafo 4ª del artículo 2ª de la Ley
+2114 del 2021.
+Artículo 86. LICENCIA PARA EL CUIDADO DE LA NIÑEZ. Mediante mutuo acuerdo entre
+BKCOL S.A.S. y el trabajador, se reconocerá al trabajador una licencia remunerada, una
+vez por año, and por un periodo de 10 días hábiles, a uno de los padres o a quien tenga la
+custodia y el cuidado personal del menor de edad, para el cuidado de los menores de edad
+que padezca una enfermedad o condición terminal. Como requisito para acceder a esta
+licencia se requiere:
+i) el padre o la madre beneficiario de la licencia sea cotizante al sistema general de
+seguridad social en salud; ii se aporte por parte del trabajador, previamente, certificación
+o incapacidad otorgada por el médico tratante que tenga a su cargo la atención del menor
+de edad, donde conste la necesidad de acompañamiento y el diagnóstico clínico y deberán
+renovarse cada vez que el trabajador realice la solicitud de licencia para el cuidado de los
+menores.
+El pago de la licencia remunerada para el cuidado de los menores de edad estará a cargo
+de la respectiva Entidad Administradora de Planes de Beneficios en Salud, en la cual se
+encuentre afiliado el trabajador, en los mismos términos y condiciones que establece la ley
+2174 de 2021. De esta forma, el trabajador podrá solicitar a BKCOL S.A.S. el reconocimiento
+de esta licencia, y si la respectiva EPS la autoriza, esta será otorgada.
+CAPÍTULO XIV. SALARIO MÍNIMO O CONVENCIONAL, MODALIDADES DEL SALARIO,
+PERÍODOS DE PAGO
+Artículo 87. BKCOL S.A.S. podrá convenir libremente con sus trabajadores la modalidad
+del salario así:
+1) El empleador y trabajador pueden convenir libremente el salario en sus diversas
+modalidades como por unidad de tiempo, por obra, o a destajo y por tarea, etc., pero
+siempre respetando el salario mínimo convencional o de protección.
+2) No obstante lo dispuesto en los artículos 13, 14, 16, 21 y 340 del Código Sustantivo del
+Trabajo y las normas concordantes con éstas, cuando el trabajador devengue un
+salario ordinario superior a diez 10 salarios mínimos legales mensuales, valdrá la
+estipulación escrita de un salario integral que además de retribuir el trabajo ordinario,
+compense de antemano el valor de prestaciones, recargos y beneficios tales como el
+correspondiente al trabajo nocturno, extraordinario o al dominical y festivo, el de
+primas legales, extralegales, las cesantías y sus intereses, subsidios y suministros en
+especie, y, en general, las que se incluyan en dicha estipulación, excepto las
+vacaciones.
+BURGER
+KING
+REGLAMENTO INTERNO DE TRABAJO
+Código: GHU-DP-RIT
+Versión: 4
+Fecha de vigencia:
+En ningún caso el salario integral podrá ser inferior al monto de diez (10) salarios mínimos
+legales mensuales, más el factor prestacional correspondiente a la empresa que no podrá
+ser inferior al treinta por ciento (30%) de dicha cuantía. El monto del factor prestacional
+quedará exento del pago de retención en la fuente y de impuestos.
+1. El salario integral no estará exento de las cotizaciones a la Seguridad Social,
+ni de los aportes al SENA, ICBF y Cajas de Compensación Familiar, pero en el
+caso de estas tres 3 últimas entidades, los aportes se disminuirán en un treinta
+por ciento (30%).
+2. El trabajador que desee acogerse a esta estipulación recibirá la liquidación
+definitiva de su auxilio de cesantías y demás prestaciones sociales causadas
+hasta esa fecha, sin que por ello se entienda terminado su contrato de trabajo.
+Art. 132 C.S de T
+Artículo 88. El salario puede convenirse en dinero efectivo todo, o parte en dinero y parte
+en especie.
+1. Constituye salario en especie toda aquella parte de la remuneración
+ordinaria y permanente que reciba el trabajador como contraprestación
+directa del servicio, tales como la alimentación, habitación o vestuario que el
+empleador suministre al trabajador o a su familia, salvo la estipulación prevista
+en el artículo 15 de la ley $50/90$
+2. El salario en especie debe valorarse expresamente en todo contrato de
+trabajo. A falta de estipulación o de acuerdo sobre su valor real se estimará
+pericialmente, sin que pueda llegar a constituir y conformar más del cincuenta
+por ciento (50%) de la totalidad del salario. Art. 129 C.S de T
+No obstante, cuando un trabajador devengue el salario mínimo legal, el valor por concepto
+de salario en especie no podrá exceder de treinta por ciento (30%).
+Artículo 89. Cuando se trate de trabajos por equipos que impliquen rotación sucesiva de
+turnos diurnosy nocturnos, BKCOL S.A.S. podrá estipular con los respectivos trabajadores
+salarios uniformes para el trabajo diurno y nocturno, siempre que estos salarios
+comparados con los de actividades idénticas o similares en horas diurnas compensen los
+recargos legales. Art. 170 C.S de T
+Artículo 90. Se denomina jornal el salario estipulado por días, y sueldo el estipulado por
+períodos mayores. Art. 133 C.S de T
+Artículo 91. Salario mínimo legal o convencional:
+1.
+arbitral. En el caso de BKCOL S.A.S. éste está fijado por las normas legales.
+2.
+La Comisión Permanente de Concertación de Políticas Salariales y
+Laborales, por consenso fijará salarios mínimos de carácter general o para
+cualquier región o actividad profesional, industrial, comercial, ganadera, agrícola
+El salario mínimo puede fijarse en pacto o convención colectiva o en fallo
+BURGER
+KING
+REGLAMENTO INTERNO DE TRABAJO
+Código: GHU-DP-RIT
+Versión: 4
+Fecha de vigencia:
+o forestal de una región determinada. En caso de que no haya consenso en el
+Consejo Nacional Laboral, el Gobierno, por medio de decretos que regirán por el
+término que en ellos se indique, podrá fijar dichos salarios. Art.8 Ley 278 de 1996
+3.
+Para quienes laboren jornadas inferiores a las máximas legales y devenguen
+el salario mínimo legal o el convencional, éste regirá en proporción al número de
+horas efectivamente trabajadas, con excepción de la jornada especial de treinta y
+seis 36 horas previstas en el artículo 20 de la ley 50/90.
+Artículo 92. Salvo convenio por escrito, el pago de los salarios se efectuará en el lugar
+donde el trabajador preste el servicio.
+Salvo en los casos que se convengan pagos parciales en especie, el salario se pagará en
+dinero moneda legal al trabajador, directamente o a la persona que él autorice por escrito,
+así sueldos y salarios por quincenas vencidas los días 15 y 30 de cada mes o por mes
+vencido de acuerdo con el periodo de pago estipulado en el Contrato de Trabajo.
+CAPÍTULO XV. HIGIENE, SEGURIDAD Y SALUD, SERVICIOS MÉDICOS RIESGOS
+LABORALES, PRIMEROS AUXILIOS EN CASO DE ACCIDENTE DE TRABAJO
+Artículo 93. Es obligación del empleador velar por la salud, seguridad e higiene de los
+trabajadores a su cargo. Igualmente, es su obligación garantizar los recursos necesarios
+para implementar y ejecutar actividades permanentes en prevención de las lesiones y
+enfermedades causadas por las condiciones de trabajo, y de la protección y promoción de
+la salud de los trabajadores de conformidad con el Sistema de Gestión de la Seguridad y
+Salud en el Trabajo SG-SST, y con el objeto de velar por la protección integral del
+trabajador.
+Artículo 94. De acuerdo con lo previsto por la Ley 100 de 1993, al momento del ingreso del
+trabajador a la empresa, éste señalará la empresa promotora de salud que desea le
+atienda las eventualidades de salud y en tal caso y de acuerdo con las normas legales,
+empleador y trabajador quedarán obligados a pagar las cotizaciones respectivas en los
+porcentajes que prevé la Ley 100 y sus decretos reglamentarios.
+Artículo 95. Todo trabajador que se sienta enfermo deberá comunicarlo a su jefe
+inmediato, dentro del primer día de enfermedad, y en tal caso el trabajador se dirigirá a la
+empresa promotora de salud que le esté atendiendo el riesgo de salud o la IPS que aquella
+entidad haya contratado para tal servicio.
+Artículo 96. Accidentes de trabajo y enfermedades laborales. De acuerdo con los
+lineamientos de la Ley 100 de 1993, Ley 1562 de 2012 el riesgo de accidentes de trabajo y
+enfermedades laborales lo asumen, previo el pago de la cotización respectiva, las
+entidades de Seguridad Social especializadas en este riesgo.
+Parágrafo primero: Es obligación de todo empleador afiliar a sus trabajadores a la
+Administradora de Riesgos Laborales, al primer día de trabajo para asegurar los riesgos
+de accidentes de trabajo y enfermedad laboral.
+BURGER
+KING
+REGLAMENTO INTERNO DE TRABAJO
+Código: GHU-DP-RIT
+Versión: 4
+Fecha de vigencia:
+Parágrafo segundo: En estos casos el pago del 100% de la cotización a que haya lugar
+según los reglamentos, corresponde al empleador, quien además podrá escoger la entidad
+de riesgos laborales donde desee afiliar a sus trabajadores. El valor del aporte que debe
+hacer el empleador se establecerá de acuerdo con su siniestralidad, severidad y
+cumplimiento del Sistema de Gestión de la Seguridad y Salud en el Trabajo SG-SST.
+Artículo 97. Los servicios médicos que requieran los trabajadores se prestarán por la
+Entidad Promotora de Salud E.P.S. en la cual se encuentren inscritos. Estará a cargo del
+empleador en aquellos sitios en que dicha asistencia no sea prestada por ninguna entidad.
+Artículo 98. Los trabajadores deben someterse a las instrucciones y tratamiento que
+determine el médico que los haya examinado, así como a los exámenes médicos y
+tratamientos preventivos que para todos o algunos de ellos ordene BKCOL S.A.S. en
+determinados casos. El trabajador que sin justa causa se negare a someterse a los
+exámenes, instrucciones o tratamientos antes indicados, perderá el derecho a la
+prestación en dinero por la incapacidad que sobrevenga a consecuencia de esa negativa.
+Artículo 99. El trabajador que se encuentre afectado de enfermedad que no tenga el
+carácter de laboral y que aunque no lo inhabilite para el trabajo pueda constituir peligro
+para la sanidad del personal, por ser contagiosa o crónica será aislado provisionalmente
+en su domicilio, hasta que el médico certifique si puede reanudar tareas o si debe ser
+retirado de BKCOL S.A.S. definitivamente dando aplicación al decreto 2351 de 1965,
+artículo 7º, Numeral 15.
+Artículo 100. Los trabajadores deberán someterse a todas las medidas de Seguridad y
+Salud en el Trabajo que prescriban las autoridades del ramo en general, y en particular a
+las que ordene BKCOL S.A.S. para la prevención de las enfermedades y de los riesgos en
+el manejo de los elementos de trabajo y desechos biológicos, especialmente para evitar los
+accidentes de trabajo.
+Artículo 101. En caso de accidente de trabajo, el jefe de la respectiva dependencia, o
+representante de BKCOL S.A.S., ordenará inmediatamente la prestación de los primeros
+auxilios, tomará todas las demás medidas que se impongan y que se consideren necesarias
+para reducir al mínimo las consecuencias del accidente y remitirá al trabajador a la
+correspondiente clínica, hospital más cercanos y del nivel que brinde la cobertura según
+el tipo de lesión y el empleador informará del suceso tanto a la E.P.S. como a la entidad
+ADMINISTRADORA DE RIESGOS LABORALES A.R.L. a la que se encuentre afiliado.
+Parágrafo: En caso de presentarse un incidente de trabajo el empleado debe notificarlo al
+jefe del área de talento humano o quien haga sus veces, quien deberá elaborar un informe
+el cual será sometido a estudio por el COPASST, para que éste tome las medidas
+adecuadas para evitar que se convierta en accidente de trabajo.
+Artículo 102. En caso de accidente no mortal, aún el más leve o de apariencia
+insignificante, el trabajador lo comunicará inmediatamente al jefe inmediato y al jefe del
+BURGER
+KING
+REGLAMENTO INTERNO DE TRABAJO
+Código: GHU-DP-RIT
+Versión: 4
+Fecha de vigencia:
+área de talento humano para que éstos procuren los primeros auxilios, prevean la
+asistencia médica y tratamiento oportuno por parte de la EPS respectiva y se informará de
+ello a la ADMINISTRADORA DE RIESGOS LABORALES a la que esté afiliada la empresa.
+Artículo 103. BKCOL S.A.S. no responderá por ningún accidente de trabajo que haya sido
+provocado deliberadamente o por culpa grave de la víctima, pues sólo estará obligada a
+prestar los primeros auxilios. Tampoco responderá de la agravación que se presente en las
+lesiones o perturbaciones causadas por cualquier accidente, por razón de no haber dado
+el trabajador, el aviso oportuno correspondiente o haberlo demorado, sin justa causa.
+Artículo 104. De todo accidente se llevará registro en la Caracterización de
+Accidentalidad, con indicación de la fecha, hora, sector y circunstancias en que ocurrió,
+nombre de los testigos presénciales, si los hubiere y del jefe inmediato, y en forma sintética
+lo que éstos puedan declarar.
+Artículo 105. La Empresa dará estricto cumplimiento al Decreto 1295/94, reglamentario de
+la Ley $100/93$, que creó en el País el Sistema General de Riesgos Profesionales, con vigencia
+a partir del 01 de agosto de 1994. De igual manera la Empresa dará cumplimiento a las
+normas sobre Riesgos Profesionales previstas en la Ley 776 de 2002 y la nueva
+normatividad sobre riesgos laborales prevista en la ley 1562 de 2012
+Conforme a ello BKCOL S.A.S. tiene la facultad de afiliar a sus trabajadores a la entidad
+de Riesgos Laborales que desee y deberá pagar las cotizaciones correspondientes en un
+100%.
+Parágrafo: Los servicios médicos, y los tratamientos a que haya lugar, hospitalización e
+indemnización, estarán a cargo de la entidad Administradora de Riesgos laborales
+respectiva.
+Artículo 106. La Empresa solo acepta las incapacidades dadas por las E.P.S., en caso de
+enfermedad general, maternidad y paternidad o por las entidades que administran los
+Riesgos laborales en caso de accidentes de trabajo o enfermedad laboral.
+Parágrafo: Se entiende que la incapacidad a que se alude debe ser expedida por la
+entidad de Seguridad Social a la que se encuentre afiliado el trabajador.
+Artículo 107. En todo caso, en lo referente a los puntos de que trata este capítulo, tanto
+BKCOL S.A.S. como los trabajadores, se someterán a las normas pertinentes del Código
+Sustantivo del Trabajo, la Resolución No. 1016 de 1989 expedida por el Ministerio de la
+Protección Social, y las demás que con tal fin se establezcan, o las que las modifiquen o
+sustituyan. De la misma manera, ambas partes están obligadas a sujetarse a la legislación
+vigente sobre salud y seguridad en el trabajo de conformidad a los términos estipulados en
+los preceptos legales pertinentes.
+CAPITULO XVI. PRESCRIPCIONES DE ORDEN
+BURGER
+KING
+REGLAMENTO INTERNO DE TRABAJO
+Código: GHU-DP-RIT
+Versión: 4
+Fecha de vigencia:
+Artículo 108. Los trabajadores tienen como deberes generales los siguientes:
+a) Respeto y subordinación a los superiores.
+b) Respeto a los compañeros de trabajo.
+c) Procurar completa armonía e integración con los superiores y los compañeros de
+trabajo, en las relaciones personales, y en la ejecución de las labores.
+d) Guardar buena conducta en todo sentido y obrar con espíritu de leal colaboración
+en el orden moral y disciplina general de BKCOL S.A.S..
+e) Ejecutar los trabajos que se les confíen, con honradez, buena voluntad y de la mejor
+manera posible.
+f) Hacer las observaciones, reclamos y solicitudes a que haya lugar, por conducto del
+respectivo superior y de manera fundada, comedida y respetuosa.
+g) Recibir y aceptar las órdenes, instrucciones y correcciones relacionadas con el
+trabajo y con la conducta en general, con su verdadera intención, que es la de
+encaminar y perfeccionar los esfuerzos en provecho propio y de BKCOL S.A.S..
+h) Permanecer durante la jornada de trabajo, en el sitio o lugar donde deba
+desempeňarlo, no pudiendo, salvo orden superior, o que su función así lo exija, pasar
+al sitio de trabajo de los otros compañeros, ni a otras secciones o lugares del
+establecimiento.
+i) Prestar sus servicios tanto en jornada ordinaria y extraordinaria de acuerdo con las
+disposiciones legales vigentes, a menos que existan causas plenamente justificadas.
+j) Guardar reserva de todo lo que llegue a su conocimiento por razón de su oficio, y
+cuya comunicación a otro pudiere causar perjuicio a la Empresa, lo cual no obsta
+para que cumpla con el deber de denunciar los delitos comunes y las violaciones del
+Contrato de Trabajo o de las leyes del trabajo.
+k) Observar rigurosamente las medidas y precauciones que le indique su respectivo
+jefe para el manejo del material de trabajo.
+ ) Observar rigurosamente las medidas y precauciones que le indique la empresa
+respecto a conductas de autocuidado en el manejo de elementos de protección
+personal y en los factores de riesgo existentes en la labor, las normas de seguridad y
+acatar las instrucciones que se le den para el manejo de las máquinas o instrumentos
+de trabajo.
+m) Abstenerse de propiciar o hacer, dentro o fuera de la empresa, comentarios nocivos,
+injuriosos o deshonrosos en contra del empleador, los compañeros de trabajo, jefes
+inmediatos, y el personal directivo en general, ya que ésta es causal de despido de la
+empresa tal como lo contemplan los numerales 2 y 3 del artículo 62 del C.S.T.
+CAPÍTULO XVII. SUMINISTRO DE CALZADO Y VESTIDO DE LABOR
+Artículo 109. BKCOL S.A.S. suministrará a los trabajadores con derecho, de conformidad
+con las normas legales, el calzado y vestido de labor Art. 230 C.S de T, que cita textual:
+"Todo {empleador} que habitualmente ocupe uno 1 o más trabajadores permanentes,
+deberá suministrar cada cuatro 4 meses, en forma gratuita, un 1 par de zapatos y un 1
+vestido de labor al trabajador, cuya remuneración mensual sea hasta dos 2 meses el
+salario mínimo más alto vigente. Tiene derecho a esta prestación el trabajador que en las
+BURGER
+KING
+REGLAMENTO INTERNO DE TRABAJO
+Código: GHU-DP-RIT
+Versión: 4
+Fecha de vigencia:
+fechas de entrega de calzado y vestido haya cumplido más de tres 3 meses al servicio del
+empleador."
+CAPÍTULO XVIII. ORDEN JERÁRQUICO
+Artículo 110. La organización de BKCOL S.A.S. está sujeta, para los efectos de la
+autoridad, al siguiente orden jerárquico.
+1. Gerente General.
+2. Director.
+3. Gerente.
+4. Líder.
+5. Coordinador.
+6. Analista.
+7. Asistente.
+8. Auxiliar.
+9. Personal operativo
+Parágrafo: De los cargos mencionados, tienen facultades para imponer sanciones
+disciplinarias a los trabajadores de la empresa El Director Administrativo y Financiero, el
+Director de Talento Humano y el Líder de Talento Humano. Esto con el fin de cumplir el
+procedimiento para las acciones. art. 115 CST
+CAPÍTULO XIX. OBLIGACIONES ESPECIALES PARA BKCOL S.A.S. Y LOS TRABAJADORES
+Artículo 111. Son obligaciones especiales de BKCOL S.A.S.
+1. Poner a disposición de los trabajadores, salvo estipulación en contrario, los
+instrumentos adecuados y las materias primas necesarias para la realización de las
+labores.
+2. Procurar a los trabajadores, locales apropiados y elementos adecuados de
+protección contra los accidentes de trabajo o enfermedades laborales en forma que
+garantice razonablemente la seguridad y la salud.
+3. Prestar inmediatamente los primeros auxilios en caso de accidente de trabajo o de
+enfermedad. A este efecto, la Empresa mantendrá lo necesario según
+reglamentación de las autoridades sanitarias.
+4. Pagar la remuneración pactada en las condiciones, períodos y lugares convenidos.
+5. Guardar absoluto respeto a la dignidad del trabajador, a sus creencias y
+sentimientos de acuerdo con la política organizacional y el respeto por la diversidad,
+equidad e inclusión
+6. Conceder al trabajador las licencias necesarias para los fines y en los términos
+siguientes:
+7. Para el ejercicio del sufragio, sin perjuicio de lo estipulado en el artículo 3º de la Ley
+403 de 1997.
+8. Para el desempeño de cargos oficiales transitorios de forzosa aceptación;
+9. En caso de grave calamidad doméstica debidamente comprobada, entendiéndose
+como todo suceso personal, familiar, hasta el tercer grado de consanguinidad,
+segundo de afinidad o primero civil, caso fortuito o fuerza mayor cuya gravedad
+afecte el normal desarrollo de las actividades del trabajador;
+BURGER
+KING
+REGLAMENTO INTERNO DE TRABAJO
+Código: GHU-DP-RIT
+Versión: 4
+Fecha de vigencia:
+10. Para desempeñar comisiones sindicales inherentes a la organización, o para asistir
+al entierro de sus compañeros, siempre que avise con la debida oportunidad al
+empleador o a su representante y que, el número de los que se ausenten no sea tal
+que perjudique el funcionamiento de la empresa;
+11. Para asistir a citas médicas de urgencia o citas médicas programadas con
+especialistas cuando se informe al empleador junto certificado previo, incluyendo
+aquellos casos que se enmarquen con lo dispuesto desde el Ministerio de Salud y
+Protección Social para el diagnóstico y el tratamiento de la Endometriosis incluido
+en la Ley 2338 de 2023.
+12. Para asistir a las obligaciones escolares como acudiente, en las que resulte
+obligatoria la asistencia del trabajador por requerimiento del centro educativo.
+13. Para atender citaciones judiciales, administrativas y legales.
+14. Los empleados de BKCOL S.A.S. podrán acordar con la Empresa, un 1 día de
+descanso remunerado por cada seis 6 meses de trabajo, en el cual certifiquen el uso
+de bicicletas como medio de transporte para la llegada y salida del sitio de trabajo.
+15. Expedir al trabajador, a la expiración del Contrato un certificado laboral siempre y
+cuando lo solicite.
+16. El área de recursos humanos de la empresa expedirá las referencias laborales,
+siempre y cuando exista una solicitud formal por escrito del empleado o la empresa
+interesada.
+17. Realizar la evaluación médica pre ocupacional o de reingreso, la evaluación médica
+ocupacional periódica ya sean programadas o por cambios de ocupación o cargo y
+la evaluación médica pos ocupacional o de egreso. Resolución 2346 de 2007,
+Ministerio de la protección Social.
+18. Abrir y llevar al día los registros de trabajo extraordinario realizado por los
+trabajadores de la empresa.
+19. Conceder a las trabajadoras que están en período de lactancia los descansos
+ordenados por el artículo 238 del Código Sustantivo del Trabajo.
+20. Conceder en forma oportuna a la trabajadora en estado de embarazo, la licencia
+remunerada consagrada en el numeral 1 del artículo 236 del Código Sustantivo de
+Trabajo de forma tal que empiece a disfrutarla de manera obligatoria una 1 semana
+antes o dos 2 semanas antes de la fecha probable del parto, según decisión de la
+futura madre conforme al certificado médico a que se refiere el numeral 3 del citado
+artículo 236.
+21. Conservar el puesto a las empleadas que estén disfrutando de los descansos
+remunerados, a que se refiere el numeral anterior, o por licencia de enfermedad
+motivada en el embarazo o parto. No producirá efecto alguno el despido que BKCOL
+S.A.S. comunique a la trabajadora en tales períodos.
+22. Llevar un registro de inscripción de todas las personas menores de edad que emplee,
+con indicación de la fecha de nacimiento. Afiliarlo al Sistema General de Seguridad
+Social Integral y garantizarle todos los derechos y garantías laborales a que tenga
+derecho.
+23. Facilitar la formación a los trabajadores en diferentes temas de su interés tales
+como, Seguridad Social Integral, Sistema de gestión de la seguridad y salud en el
+trabajo y aquellos temas específicos que cada labor en particular requiera.
+BURGER
+KING
+REGLAMENTO INTERNO DE TRABAJO
+Código: GHU-DP-RIT
+Versión: 4
+Fecha de vigencia:
+24. Conceder al trabajador en caso de fallecimiento de su cónyuge, compañero o
+compañera permanente o de un familiar hasta el grado segundo de consanguinidad,
+primero de afinidad y primero civil, una licencia remunerada por luto de cinco 5 días
+hábiles, cualquiera sea su modalidad de contratación o de vinculación laboral. La
+grave calamidad doméstica no incluye la Licencia por Luto que trata este numeral.
+Este hecho deberá demostrarse mediante documento expedido por la autoridad
+competente, dentro de los treinta 30 días siguientes a su ocurrencia.
+25. Conservar las condiciones laborales de aquellas personas que de conformidad con
+la ley y la jurisprudencia gozan de protección laboral reforzada.
+26. Crear mecanismos de previsión del acoso laboral y establecer un procedimiento
+interno, confidencial y conciliatorio sobre él.
+27. Cumplir este Reglamento y mantener el orden, la moralidad y el respeto a las leyes.
+28. Implementar ajustes razonables para garantizar el goce y ejercicio de los derechos
+de las personas con discapacidad, en igualdad de condiciones con las demás, para
+la remoción de barreras actitudinales, comunicativas y físicas de conformidad con lo
+previsto en el numeral 5 del artículo 2 de la Ley 1618 de 2013 y las demás normas que
+la modifiquen o complementen. LA EMPRESA realizará los ajustes razonables que se
+requieran por cada trabajador en el lugar de trabajo, con el fin de que las personas
+con discapacidad puedan acceder, desarrollar y mantener su trabajo.
+29. Implementar acciones guiadas por la Unidad del Servicio Público de Empleo para
+eliminar cualquier tipo de barrera de acceso o permanencia, y propiciar la
+colocación sin ningún tipo de discriminación, especialmente de mujeres, jóvenes,
+migrantes, victimas del conflicto, y procedentes de municipios con Programas de
+Desarrollo con Enfoque Territorial - PDET y Zonas Más Afectadas por el Conflicto
+Armado - ZOMAC, o los que los modifiquen o complementen, personas en condición
+de vulnerabilidad.
+30. Atender con debida diligencia y en la medida de sus posibilidades las órdenes
+expedidas por autoridades competentes a favor de personas víctimas de violencias
+basadas en el sexo y en contra del presunto perpetrador.
+31. Otorgar en la medida de sus posibilidades el derecho preferente de reubicación en
+la empresa a las mujeres trabajadoras que sean víctimas de violencia de pareja, de
+violencia intrafamiliar y tentativa de feminicidio comprobada, sin desmejorar sus
+condiciones, y garantizar la protección de su vida e integridad, así como a las demás
+personas que sean víctimas de violencia de pareja y violencia intrafamiliar.
+32. En caso de presentarse una relación sentimental entre trabajadores de LA EMPRESA
+donde se identifique un posible conflicto de interés, la empresa, sin perjuicio de tomar
+medidas alternas, podrá:
+32.1. Reasignar temporalmente las funciones de cualquiera de los dos trabajadores.
+32.2.
+Modificar las líneas de reporte de obligaciones e incidentes para cualquiera
+de los dos trabajadores.
+32.3. Trasladar, temporal o permanentemente, de área o dependencia a
+cualquiera de los dos trabajadores.
+32.4. Realizar ajustes organizacionales necesarios para preservar la
+transparencia y el clima laboral
+Parágrafo primero: Se considera que el trabajador, por su culpa, elude, dificulta o dilata
+el examen médico de egreso cuando transcurridos cinco 5 días a partir de su retiro, no se
+presentare donde el médico respectivo para la práctica del examen a pesar de haber
+recibido la orden correspondiente.
+Parágrafo segundo: El trabajador que por su culpa eluda, dificulta o dilate el examen
+médico periódico ya sea el programado o por cambio de ocupación o cargo, dicha
+conducta será calificada como grave de conformidad con el presente Reglamento Interno
+de Trabajo.
+Parágrafo tercero. Para efectos de las licencias establecidas en el numeral sexto del
+presente artículo, el trabajador deberá aportar los documentos necesarios para
+demostrar y/o soportar la licencia solicitada. La documentación debe ser entregada a la
+EMPRESA al momento de solicitar la licencia o al momento de regresar a esta. La no
+entrega de la documentación constituye falta disciplinaria.
+En caso de grave calamidad doméstica, la documentación podrá ser entregada lo más
+pronto posible en la medida que las circunstancias lo permitan.
+Artículo 112. Son obligaciones especiales del trabajador:
+1. Presentarse al lugar de su trabajo a la hora exacta en que comienza su labor y
+permanecer en él hasta la terminación de la jornada.
+2. Realizar personalmente la labor, en los términos estipulados, observar los preceptos
+de este Reglamento, y cumplir las órdenes e instrucciones que de modo particular le
+imparten la Empresa y sus representantes, según el orden jerárquico establecido.
+3. No comunicar a terceros, salvo autorización expresa, las informaciones que tenga
+sobre su trabajo, especialmente que sean de naturaleza reservada o cuya
+divulgación pueda ocasionar perjuicios a la Empresa, lo que no obsta para denunciar
+delitos comunes o violaciones del contrato o de las normas legales del trabajo ante
+las autoridades competentes.
+4. Conservar y restituir en buen estado, salvo el deterioro natural, los instrumentos y
+útiles que hayan sido facilitados o las materias primas sobrantes.
+5. Guardar rigurosamente la moral en las relaciones con superiores y compañeros.
+6. Comunicar oportunamente a la Empresa las observaciones que estime conducentes
+para evitarle daños y perjuicios.
+7. Prestar la colaboración posible en casos de siniestro o de riesgo inminentes que
+afecten o amenacen las personas o las cosas de la Empresa.
+8. Cumplir estrictamente el Reglamento y las políticas del Sistema de Gestión en
+Seguridad y Salud en el Trabajo -SGSST, las normas de seguridad establecidas y
+participar en los programas de prevención y capacitación, así como observar las
+medidas preventivas higiénicas y las instrucciones y órdenes preventivas de
+accidentes o de enfermedades laborales prescritas por el médico de la empresa o
+por las autoridades del ramo.
+9. Observar con suma diligencia y cuidado, las instrucciones y órdenes preventivas de
+accidente o de enfermedades profesionales.
+BURGER
+KING
+REGLAMENTO INTERNO DE TRABAJO
+Código: GHU-DP-RIT
+Versión: 4
+Fecha de vigencia:
+10. Velar cuidadosamente por la calidad de la labor desempeñada, observando
+estrictamente las normas que sobre el particular determine la Empresa.
+11. Registrar en las oficinas de BKCOL S.A.S. su domicilio y dirección y dar aviso
+oportuno de cualquier cambio que ocurra.
+12. Realizarse las evaluaciones médicas ocupacionales periódicas, ya sean las
+programadas por la Empresa o aquellas que se requieran por el cambio de cargo u
+ocupación.
+13. La trabajadora en estado de embarazo debe empezar a disfrutar la licencia
+remunerada consagrada en el numeral 1 del artículo 236 del Código Sustantivo de
+Trabajo al menos una semana antes de la fecha probable del parto.
+14. Las demás establecidas en la ley, en este reglamento y en el contrato individual de
+trabajo.
+15. Desde el mismo día en que se sienta enfermo, acudir al servicio médico de la EPS a
+donde se encuentre afiliado, informando el mismo día a la empresa sobre la
+incapacidad otorgada, los exámenes o procedimientos practicados y el tratamiento
+a que debe someterse, entregando a la empresa los soportes correspondientes, a
+excepción de la historia clínica.
+16. Comunicar de forma inmediata y oportuna a la empresa, según las circunstancias lo
+permitan, sobre cualquier accidente de trabajo o enfermedad laboral, que se haya
+presentado o cuya ocurrencia sea inminente, del cual tenga conocimiento.
+17. Hacer uso de los equipos y elementos que la empresa le suministre para evitar
+cualquier factor de riesgo.
+18. Asistir a las reuniones ordinarias y extraordinarias que convoque la empresa, así
+como a cursos de capacitación y/o entrenamiento.
+19. Asistir y participar en los comités y brigadas para los cuales haya sido elegido.
+20. Realizar sus funciones teniendo en cuenta los procedimientos, normas, órdenes,
+instrucciones y estándares establecidas por la empresa.
+21. Consignar los dineros de la empresa a tiempo y en su monto exacto y darles el manejo
+correcto o entregarlos a la transportadora de valores, para aquellos trabajadores
+que tengan a su cargo esta labor.
+22. Utilizar la dotación de uniformes entregada por la empresa únicamente en el tiempo
+de labor, teniendo en cuenta el adecuado uso, manejo y cuidado de cada prenda.
+23. Permitir las requisas permanentes y aleatorias a sus efectos personales y lockers
+asignados.
+24. Permitir revisiones en cualquier momento, por parte de los representantes de la
+empresa en los sitios y sobre los elementos de trabajo que se le hayan entregado,
+tales como ayudas y equipos electrónicos, telefonía celular, archivos y similares.
+25. Tener los cuidados de seguridad necesarios exigidos por la empresa para proteger
+los dineros a su cargo.
+26. Mantener al día los inventarios, las cuentas de productos y dineros a su cargo.
+27. Hacer entrega inmediata a la empresa de los elementos o dineros que le hayan sido
+confiado
+28. Suministrar en forma inmediata los datos e informes que se le soliciten y cumplir las
+órdenes que le impartan sus superiores.
+29. Cumplir estrictamente el horario y turno de trabajo que se le asigne, así como con los
+períodos de descanso programados en cada jornada, marcando diariamente a sus
+BURGER
+KING
+REGLAMENTO INTERNO DE TRABAJO
+Código: GHU-DP-RIT
+Versión: 4
+Fecha de vigencia:
+horas exactas de cada entrada y salida del trabajo en el control de asistencia que la
+empresa implemente.
+30. Reportar en forma inmediata cualquier daño, falla, pérdida, deterioro o accidente
+que le ocurra a los útiles, enseres, máquinas, materiales, instalaciones y/o al personal
+de la empresa.
+31. Realizar por sí mismo las labores o tareas conexas, asesorías o complementarias a
+las principales del cargo que desempeña, tales como la limpieza y el mantenimiento
+simple o rutinario de la máquina o herramientas a su cargo.
+32. Evitar e impedir, en la medida de lo posible, la pérdida y desperdicio de cualquiera de
+los elementos que utiliza la empresa como materia prima, energía, combustibles y
+demás elementos similares.
+33. Calentar e ingerir alimentos solamente en los sitios autorizados por la empresa.
+34. Dar buena atención a los clientes.
+35. Disponer su capacidad de trabajo a efectos de cumplir con todas las metas y/o
+presupuestos y/o proyecciones, que se le señalen y/o indiquen sobre ventas,
+recaudos y/o cuales quiera otro parámetro de cumplimiento y comercialización
+fijados y/o convenidos por o con el empleador.
+36. Pagar oportunamente los préstamos que le haya otorgado la empresa.
+37. Abstenerse de usar el uniforme de la Empresa por fuera del lugar de trabajo.
+38. Respetar y seguir en todo momento las pautas de higiene en la manipulación de
+alimentos.
+39. Será obligación del trabajador el reportar la existencia de una relación sentimental
+entre este y otro compañero de trabajo cuando concurra alguna de las siguientes
+circunstancias: a) Relación de subordinación directa o indirecta; b) Funciones de
+supervisión, auditoría o control entre ellos; y c) Participación de uno de los
+"""
+
+file_path = "reglamento_interno_bkcol.txt"
+with open(file_path, "w", encoding="utf-8") as f:
+    f.write(text_content)
+
+print(file_path)

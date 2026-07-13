@@ -4,7 +4,7 @@ def main():
     agente = AgenteOrquestador()
     
     pregunta = """
-    ¿Como piensa Burger king implementar el nuevo reglamento de reducción de horas?"""
+    Como piensa Burger King implementar la reducción de la jpornada laboral"""
 
 
     respuesta = agente.agente.invoke(
@@ -18,8 +18,13 @@ def main():
         }
     )
 
-    texto = respuesta["messages"][-1].content
-    print(texto)
+    mensaje = respuesta["messages"][-1]
+
+    print("Respuesta:\n")
+    print(mensaje.content)
+
+    #texto = respuesta["messages"][-1].content
+    #print(texto)
 
 if __name__ == "__main__":
     main()
