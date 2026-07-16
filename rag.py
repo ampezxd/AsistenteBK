@@ -1,3 +1,4 @@
+from langchain_google_genai.chat_models import ChatGoogleGenerativeAIError
 from retriever import retriever
 from llm import llm
 
@@ -44,6 +45,15 @@ Pregunta:
 Respuesta:
 """
 
-    respuesta = llm.invoke(prompt)
+    try:
+        respuesta = llm.invoke(prompt)
+        return {
+            "respuesta": respuesta.content,
+            "fuentes": docs
+        }
 
-    return respuesta.content
+    except ChatGoogleGenerativeAIError:
+        return (
+            "⚠️ Se alcanzó el límite de la API de Gemini. "
+            "Espera un momento e inténtalo nuevamente."
+    )
