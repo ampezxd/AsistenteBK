@@ -33,3 +33,9 @@ hf_splitter = RecursiveCharacterTextSplitter.from_huggingface_tokenizer(
 hf_fragmentos = hf_splitter.split_documents(all_docs)
 len(hf_fragmentos)
 
+#for i, doc in enumerate(hf_fragmentos):
+
+ #   if "operativo" in doc.page_content.lower():
+  #      print("="*80)
+   #     print(i)
+    #    print(doc.page_content)

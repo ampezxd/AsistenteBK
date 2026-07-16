@@ -1,30 +1,25 @@
-from orquestador import AgenteOrquestador
+from rag import responder
 
 def main():
-    agente = AgenteOrquestador()
-    
-    pregunta = """
-    Como piensa Burger King implementar la reducción de la jpornada laboral"""
 
+    print("=" * 60)
+    print("Asistente BK - Reglamento Interno")
+    print("Escribe 'salir' para terminar.")
+    print("=" * 60)
 
-    respuesta = agente.agente.invoke(
-        {
-            "messages": [
-                {
-                    "role": "user",
-                    "content": pregunta
-                }
-            ]
-        }
-    )
+    while True:
 
-    mensaje = respuesta["messages"][-1]
+        pregunta = input("\nPregunta: ")
 
-    print("Respuesta:\n")
-    print(mensaje.content)
+        if pregunta.lower() in ["salir", "exit", "quit"]:
+            print("\n¡Hasta luego!")
+            break
 
-    #texto = respuesta["messages"][-1].content
-    #print(texto)
+        respuesta = responder(pregunta)
+
+        print("\nRespuesta:\n")
+        print(respuesta)
+
 
 if __name__ == "__main__":
     main()
