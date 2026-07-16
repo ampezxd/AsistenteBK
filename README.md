@@ -69,30 +69,6 @@ En lugar de responder únicamente con el conocimiento del modelo de lenguaje, el
 
 ---
 
-# 📂 Estructura del proyecto
-
-```text
-AsistenteBK/
-
-│
-├── knowledge_base/
-│      reglamentoBkcol.txt
-│
-├── procesamiento.py
-├── embeddings.py
-├── retriever.py
-├── llm.py
-├── rag.py
-├── app.py
-├── my_keys.py
-│
-├── requirements.txt
-│
-└── README.md
-```
-
----
-
 # 🧠 Procesamiento del documento
 
 El reglamento se divide automáticamente utilizando **RecursiveCharacterTextSplitter**, respetando la estructura del documento (capítulos, artículos y saltos de línea).
