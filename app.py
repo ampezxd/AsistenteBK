@@ -1,73 +1,58 @@
 import streamlit as st
 from rag import responder
 
-
 st.set_page_config(
-    page_title="Asistente BK",
+    page_title="Bienvenido al asistende BK",
     page_icon="🍔",
     layout="centered"
 )
 
 st.title("🍔 Asistente BK")
-st.subheader("Consulta el Reglamento Interno de Burger King Colombia")
-
-st.write(
-    """
-    Este asistente utiliza una arquitectura **RAG**
-    para responder preguntas únicamente con información
-    del Reglamento Interno de Trabajo.
-    """
+st.caption(
+    "Consulta el Reglamento Interno de Burger King Colombia mediante IA y RAG."
 )
 
 st.divider()
 
-
-
 if "chat" not in st.session_state:
     st.session_state.chat = []
 
-
-pregunta = st.text_input(
-    "Consulta sobre el reglamento de trabajo",
-    placeholder="Ejemplo: ¿Cuánto dura el descanso del personal operativo?"
+pregunta = st.chat_input(
+    "Haz una pregunta sobre el reglamento"
 )
 
+if pregunta:
 
-if st.button("Preguntar"):
+    with st.chat_message("user"):
+        st.markdown(pregunta)
 
-    if pregunta.strip() == "":
-        st.warning("Escribe una pregunta.")
-        st.stop()
+    with st.spinner("Consultando el reglamento..."):
+        resultado = responder(pregunta)
 
-    with st.spinner("Buscando información en el reglamento..."):
+    st.session_state.chat.append(resultado | {"pregunta": pregunta})
 
-        respuesta = responder(pregunta)
-
-    st.session_state.chat.append(
-        {
-            "pregunta": pregunta,
-            "respuesta": respuesta
-        }
-    )
-
-#with st.sidebar:
-
-#    st.header("Acerca del proyecto")
-
-#    st.write("""
-    #Arquitectura
-
-    #• LangChain
-   # • Pinecone
-  #  • Gemini
-   # • Streamlit
-  #  • HuggingFace Embeddings
- #   """)
 
 for mensaje in reversed(st.session_state.chat):
 
     with st.chat_message("user"):
-        st.write(mensaje["pregunta"])
+        st.markdown(mensaje["pregunta"])
 
     with st.chat_message("assistant"):
-        st.write(mensaje["respuesta"])
+
+        st.markdown(mensaje["respuesta"])
+
+        #if mensaje.get("fuentes"):
+#
+ #           st.caption("📚 Fuente consultada")
+#
+ #           for fuente in mensaje["fuentes"]:
+  #              st.write(f"• {fuente}")
+
+   #     if mensaje.get("documentos"):
+
+    #        with st.expander("Ver fragmentos recuperados"):
+
+     #           for doc in mensaje["documentos"]:
+
+      #              st.code(doc.page_content)
+                

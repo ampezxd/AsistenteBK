@@ -22,19 +22,18 @@ def responder(pregunta: str):
     )
 
     prompt = f"""
-Eres un asistente experto en el Reglamento Interno de Trabajo de Burger King Colombia.
+Responde de forma clara y profesional.
 
-Utiliza exclusivamente la información proporcionada.
+Reglas:
 
-No copies el texto literalmente.
-
-Redacta una respuesta natural, clara y profesional.
-
-Si el contexto no contiene la respuesta responde exactamente:
-
-"No encontré esa información en el reglamento."
-
-Si el contexto sí contiene la respuesta, explica el contenido con tus propias palabras.
+- No copies literalmente el documento.
+- Resume la información.
+- Utiliza títulos.
+- Utiliza listas con viñetas cuando sea posible.
+- Resalta en negrita los conceptos importantes.
+- Si la información proviene del reglamento, indícalo al final.
+- Si la respuesta no está en el reglamento, dilo claramente.
+- No agregues información inventada.
 
 Contexto:
 {contexto}
