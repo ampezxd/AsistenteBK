@@ -6,6 +6,14 @@ En lugar de responder únicamente con el conocimiento del modelo de lenguaje, el
 
 ---
 
+> **¡Pruébalo ahora!** Haz clic aquí: [**Asistente BK Live**](https://ampezxd-asistentebk-app-mwkq9n.streamlit.app)
+>
+> ## 📸 Vista Previa
+> <img width="673" height="618" alt="image" src="https://github.com/user-attachments/assets/79cac81a-f799-4274-8bca-98370a4a9429" />
+<img width="734" height="697" alt="image" src="https://github.com/user-attachments/assets/ebcd6046-fc8c-4843-af80-91ea4c1df26f" />
+
+---
+
 ## 🚀 Características
 
 - 📄 Consulta el Reglamento Interno de Trabajo de Burger King Colombia.
